@@ -38,10 +38,6 @@ public class GlobalEditDistanceStrategy implements Runnable
 	// this value is the minimum limit that a half-done-match can be filtered as
 	// an approximate match
 	public static final double THREHOLD = 0.8;
-
-	// this value is used to decide the start value, taking first two letters
-	// into consideration
-	public static final int NUM_PRE_CONSIDER = 2;
 	
 	//the path for the resource is the same for every thread
 	private static  File TWEET_INPUT_FILE = null;
@@ -79,9 +75,11 @@ public class GlobalEditDistanceStrategy implements Runnable
 			
 			Tweet tmpTweet=new Tweet(scanner.nextLine());
 			
+			//the general idea is to capture the first index that a perfect individual word match
 			
+			String first_word_placeName=placeName.getTokens()[0];
 			
-			
+			String[] tweetTokens=tmpTweet.getTokens();
 			
 			
 			

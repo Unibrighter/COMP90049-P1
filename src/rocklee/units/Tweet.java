@@ -17,9 +17,6 @@ public class Tweet
 	//separate info 
 	private String[] tokens=null;
 	
-	//length of the tokens array
-	int length = -1;
-
 	public Tweet(String raw_str)
 	{
 		// empty string given
@@ -39,12 +36,11 @@ public class Tweet
 			this.fullContent = tmp[1];
 			
 			//extract tokens array
-			this.tokens=this.fullContent.split(" ");
-			
+			this.tokens=this.fullContent.split(" ");			
 		}
 	}
 	
-	public String[] getToken()
+	public String[] getTokens()
 	{
 		return this.tokens;
 	}
@@ -53,10 +49,6 @@ public class Tweet
 	{
 		return this.fullContent;
 	}
-	
-	
-	
-	
 	
 	
 }

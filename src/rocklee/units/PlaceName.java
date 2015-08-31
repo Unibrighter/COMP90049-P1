@@ -17,9 +17,9 @@ public class PlaceName
 	// for debug and info
 	private static Logger log = Logger.getLogger(PlaceName.class);
 
-	String[] tokens = null;
-	String fullName = null;
-	int length = -1;
+	private String[] tokens = null;
+	private String fullName = null;
+
 
 	public PlaceName(String raw_str)
 	{
@@ -34,11 +34,11 @@ public class PlaceName
 		{
 			this.fullName = raw_str;
 
-			tokens = raw_str.split(" ");
+			this.tokens = raw_str.split(" ");
 		}
 	}
 	
-	public String[] getToken()
+	public String[] getTokens()
 	{
 		return this.tokens;
 	}
@@ -47,7 +47,7 @@ public class PlaceName
 	{
 		return this.fullName;
 	}
-	
+
 	
 	
 	

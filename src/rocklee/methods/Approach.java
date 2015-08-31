@@ -19,16 +19,57 @@ public class Approach
 	/*
 	 * Use the global edit distance strategy to compute the match rate
 	 * 
+	 * And use word 1's length as the measurement for difference degree
+	 * 
 	 * */
 	
-	public static double globalEditDistance(PlaceName placeName ,Tweet tweet)
-	{
-		double result=0d;
+	public static double globalEditDistance(String word1, String word2) {
+		double result=word1.length();
 		
-		//TODO implement the algorithm
-				
+		int len1 = word1.length();
+		int len2 = word2.length();
+	 
+		// len1+1, len2+1, because finally return dp[len1][len2]
+		int[][] global_distance_matrix = new int[len1 + 1][len2 + 1];
+	 
+		for (int i = 0; i <= len1; i++) {
+			global_distance_matrix[i][0] = i;
+		}
+	 
+		for (int j = 0; j <= len2; j++) {
+			global_distance_matrix[0][j] = j;
+		}
+	 
+		//iterate though, and check last char
+		for (int i = 0; i < len1; i++) {
+			char c1 = word1.charAt(i);
+			for (int j = 0; j < len2; j++) {
+				char c2 = word2.charAt(j);
+	 
+				//if last two chars equal
+				if (c1 == c2) {
+					//update dp value for +1 length
+					global_distance_matrix[i + 1][j + 1] = global_distance_matrix[i][j];
+				} else {
+					int replace = global_distance_matrix[i][j] + 1;
+					int insert = global_distance_matrix[i][j + 1] + 1;
+					int delete = global_distance_matrix[i + 1][j] + 1;
+	 
+					int min = replace > insert ? insert : replace;
+					min = delete > min ? min : delete;
+					global_distance_matrix[i + 1][j + 1] = min;
+				}
+			}
+		}
+		
+		//this means it will take global_distance_matrix[i + 1][j + 1] times operation 
+		//to transform from word 1 to word 2
+	 
+		result=(len1- global_distance_matrix[len1][len2])/result;
 		return result;
 	}
+		
+		
 	
 	
 	/*
