@@ -1,10 +1,17 @@
 package rocklee.process;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
+import java.nio.CharBuffer;
+import java.nio.MappedByteBuffer;
+import java.nio.channels.FileChannel;
+import java.nio.charset.CharacterCodingException;
+import java.nio.charset.Charset;
+import java.nio.charset.CharsetDecoder;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
@@ -55,6 +62,8 @@ public class GlobalEditDistanceStrategy implements Runnable
 	// scanner
 	private Scanner scanner = null;
 
+	private boolean mapMemory = false;
+
 	public static void setTweetInputFile(File file)
 	{
 		GlobalEditDistanceStrategy.TWEET_INPUT_FILE = file;
@@ -67,25 +76,52 @@ public class GlobalEditDistanceStrategy implements Runnable
 
 	public void run()
 	{
+		FileChannel fc =null;
 		// set up the scanner for tweets input
 		try
 		{
-			this.scanner = new Scanner(
-					GlobalEditDistanceStrategy.TWEET_INPUT_FILE);
-			// TODO maybe we should use a file map so the IO operation would not
-			// become the bottleneck that slows down the program?
+			
 
-		} catch (FileNotFoundException e)
+			if (!mapMemory)
+			{
+				this.scanner = new Scanner(
+						GlobalEditDistanceStrategy.TWEET_INPUT_FILE);
+			}
+		
+			else
+			{// memory map is used
+				
+				MappedByteBuffer byteBuffer=null;
+				try
+				{
+					fc = new FileInputStream(GlobalEditDistanceStrategy.TWEET_INPUT_FILE).getChannel();
+					byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY,0, fc.size());
+				} catch (FileNotFoundException e)
+				{
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e)
+				{
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				Charset charset = Charset.forName("US-ASCII");
+				CharsetDecoder decoder = charset.newDecoder();
+				CharBuffer charBuffer = decoder.decode(byteBuffer);
+				this.scanner = new Scanner(charBuffer).useDelimiter(System.getProperty("line.separator"));
+			}
+
+		} catch (IOException e)
 		{
 			e.printStackTrace();
 		}
-		while(scanner.hasNextLine())//until the end of tweet file
+		while (scanner.hasNextLine())// until the end of tweet file
 		{
 
-			
 			Tweet tmpTweet = new Tweet(scanner.nextLine());
-			System.out.println("thread deads with:"+placeName.getFullName() +" and tweet #"+tmpTweet.getTweetID());
-			
+//			System.out.println("thread deads with:" + placeName.getFullName()
+//					+ " and tweet #" + tmpTweet.getTweetID());
+
 			// the general idea is to capture the first index that a perfect
 			// individual word match
 
@@ -93,24 +129,22 @@ public class GlobalEditDistanceStrategy implements Runnable
 
 			String[] tweetTokens = tmpTweet.getTokens();
 
-			
-			//within one piece of tweet
+			// within one piece of tweet
 			for (int i = 0; i <= tweetTokens.length - placeNameTokens.length; i++)
 			{
 
-				
-				
 				// start calculate each match rate
 				match_rate = Approach.globalEditDistance(placeNameTokens[0],
 						tweetTokens[i]);
 
-				
 				// found one which is over threshold
 				// TODO here is an assumption to make: the first word for a
 				// place name is a must match
 				if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
 				{
-					log.info("!!!First Word Match Rate!!! "+match_rate+" for "+placeName.getFullName()+" # "+tmpTweet.getTweetID());
+//					log.info("!!!First Word Match Rate!!! " + match_rate
+//							+ " for " + placeName.getFullName() + " # "
+//							+ tmpTweet.getTweetID());
 					// look further to see whether the last one also match
 					match_rate = Approach.globalEditDistance(
 							placeNameTokens[placeNameTokens.length - 1],
@@ -119,8 +153,10 @@ public class GlobalEditDistanceStrategy implements Runnable
 					{// last element also matched,then we need check the words
 						// between the head and tail
 
-						log.info("!!!Last Word Match Rate!!! "+match_rate+" for "+placeName.getFullName()+" # "+tmpTweet.getTweetID());
-						
+//						log.info("!!!Last Word Match Rate!!! " + match_rate
+//								+ " for " + placeName.getFullName() + " # "
+//								+ tmpTweet.getTweetID());
+
 						boolean matched = true;
 
 						// from second to the second last
@@ -150,9 +186,8 @@ public class GlobalEditDistanceStrategy implements Runnable
 									+ tmpTweet.getTweetID()
 									+ ")\tFor "
 									+ tmpTweet.getPartOfContent(i,
-											placeNameTokens.length);
+											placeNameTokens.length)+"\n";
 
-							System.out.println(result_output);
 							log.debug(result_output);
 
 						}
@@ -166,8 +201,17 @@ public class GlobalEditDistanceStrategy implements Runnable
 
 			}
 		}
+		scanner.close();
+		if(fc!=null)
+			try
+			{
+				fc.close();
+			} catch (IOException e)
+			{
+
+				e.printStackTrace();
+			}
 		
 
 	}
-
 }

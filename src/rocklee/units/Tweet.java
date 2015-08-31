@@ -60,7 +60,7 @@ public class Tweet
 		String result = "";
 		for (int i = 0; i < length; i++)
 		{
-			result += this.tokens[index + i];
+			result += this.tokens[index + i]+" ";
 		}
 
 		return result;

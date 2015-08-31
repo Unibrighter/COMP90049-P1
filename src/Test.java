@@ -1,5 +1,13 @@
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.CharBuffer;
+import java.nio.MappedByteBuffer;
+import java.nio.channels.FileChannel;
+import java.nio.charset.CharacterCodingException;
+import java.nio.charset.Charset;
+import java.nio.charset.CharsetDecoder;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
@@ -10,7 +18,6 @@ import org.apache.log4j.Logger;
 import rocklee.methods.Approach;
 import rocklee.process.GlobalEditDistanceStrategy;
 import rocklee.units.PlaceName;
-import rocklee.units.Tweet;
 
 public class Test
 {
@@ -20,6 +27,9 @@ public class Test
 
 	public static void main(String[] args)
 	{
+//		Test.testMap(args[1]);
+//		Test.testScannerIOStream(args[1]);
+		
 		// test class
 		System.out.println(Approach.globalEditDistance("mothersucker",
 				"motherfucker"));
@@ -53,7 +63,7 @@ public class Test
 		}
 
 		// 创建线程池
-		ExecutorService pool = Executors.newFixedThreadPool(10);
+		ExecutorService pool = Executors.newFixedThreadPool(8);
 
 		// 设置文件
 		GlobalEditDistanceStrategy.setTweetInputFile(tweet_file);
@@ -64,22 +74,79 @@ public class Test
 		while (!query_list.isEmpty())
 		{
 			GlobalEditDistanceStrategy task = new GlobalEditDistanceStrategy();
-			task.setPlaceName(query_list.remove(0));
+			
 
+			
+			task.setPlaceName(query_list.remove(0));
+			
 			pool.execute(task);
 		}
 
-		// GlobalEditDistanceStrategy task = new GlobalEditDistanceStrategy();
-		// task.setPlaceName(new PlaceName("Clear"));
-		// pool.execute(task);
-
 		pool.shutdown();
 
-		System.out.println("Query Structure Setup Time: "
-				+ (System.currentTimeMillis() - timeStamp_matchSearching));
 
-		log.warn("Query Structure Setup Time: "
-				+ (System.currentTimeMillis() - timeStamp_matchSearching));
+	}
+	
+	
+	
+	//TODO 写一个对比方法确认一下map 转nextLine和scanner io nextLine的效率
+	//see the README.md for notes
+	public static void testMap(String filePath)
+	{
+		Long startTime = System.currentTimeMillis();
+		try
+		{
+			FileChannel fc = new FileInputStream(filePath).getChannel();
+			MappedByteBuffer byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY,0, fc.size());
+			Charset charset = Charset.forName("US-ASCII");
+			CharsetDecoder decoder = charset.newDecoder();
+			CharBuffer charBuffer = decoder.decode(byteBuffer);
+			Scanner sc = new Scanner(charBuffer).useDelimiter(System.getProperty("line.separator"));
+			while(sc.hasNext())
+			{
+				//read str as dumb spin
+				String tmpStr=sc.next();
+			}
+			fc.close();
+		} catch (FileNotFoundException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (CharacterCodingException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		Long estimatedTime = System.currentTimeMillis() - startTime;
+		System.out.printf("map time used:"+estimatedTime);
 	}
 
+	public static void testScannerIOStream(String filePath) 
+	{
+		Long startTime = System.currentTimeMillis();
+		Scanner sc=null;
+		try
+		{
+			sc = new Scanner(new File(filePath));
+		} catch (FileNotFoundException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		while(sc.hasNext())
+		{
+			//read str as dumb spin
+			String tmpStr=sc.next();
+		}
+		Long estimatedTime = System.currentTimeMillis() - startTime;
+		System.out.printf("\npure io time used:"+estimatedTime);	
+		
+	}
+	
+	
 }
