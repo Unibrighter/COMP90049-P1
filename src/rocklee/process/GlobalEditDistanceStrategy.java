@@ -93,6 +93,8 @@ public class GlobalEditDistanceStrategy implements Runnable
 
 			String[] tweetTokens = tmpTweet.getTokens();
 
+			
+			//within one piece of tweet
 			for (int i = 0; i <= tweetTokens.length - placeNameTokens.length; i++)
 			{
 
@@ -148,7 +150,7 @@ public class GlobalEditDistanceStrategy implements Runnable
 									+ tmpTweet.getTweetID()
 									+ ")\tFor "
 									+ tmpTweet.getPartOfContent(i,
-											tweetTokens.length);
+											placeNameTokens.length);
 
 							System.out.println(result_output);
 							log.debug(result_output);
