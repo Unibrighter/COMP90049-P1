@@ -49,6 +49,19 @@ public class Tweet
 	{
 		return this.fullContent;
 	}
-	
+	public String getTweetID()
+	{
+		return this.TweetID;
+	}
+	public String getPartOfContent(int index,int length)
+	{
+		String result="";
+		for (int i = 0; i < length; i++)
+		{
+			result+=this.tokens[index+i];
+		}
+		
+		return result;
+	}
 	
 }
