@@ -1,7 +1,7 @@
 package rocklee.methods;
 
 import org.apache.log4j.Logger;
-
+import rocklee.units.*;
 
 /***
  * This Class uses some Algorithm to do the comparisons between the String
@@ -21,7 +21,7 @@ public class Approach
 	 * 
 	 * */
 	
-	public static double globalEditDistance(String word1 ,String word2)
+	public static double globalEditDistance(PlaceName placeName ,Tweet tweet)
 	{
 		double result=0d;
 		
@@ -38,7 +38,7 @@ public class Approach
 	 * 
 	 * Instead of compare the texts to calculate the result
 	 * */
-	public static double localEditDistance(String query ,String aimText)
+	public static double localEditDistance(PlaceName placeName ,Tweet tweet)
 	{
 		double result=0d;
 		
