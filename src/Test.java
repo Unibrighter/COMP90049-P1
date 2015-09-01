@@ -15,29 +15,23 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
+import com.sun.corba.se.impl.ior.ByteBuffer;
+
 import rocklee.methods.Approach;
 import rocklee.process.GlobalEditDistanceStrategy;
 import rocklee.units.PlaceName;
 
 public class Test
 {
-	
+
 	// for debug and info
 	private static Logger log = Logger.getLogger(Test.class);
 
 	public static void main(String[] args)
 	{
-//		Test.testMap(args[1]);
-//		Test.testScannerIOStream(args[1]);
-		
-		// test class
-		System.out.println(Approach.globalEditDistance("mothersucker",
-				"motherfucker"));
-
-		// initialize the query input
+		// ================ initialize the query input begin ==================
 
 		File query_file = new File(args[0]);
-		File tweet_file = new File(args[1]);
 
 		ArrayList<PlaceName> query_list = new ArrayList<PlaceName>(1000);
 
@@ -55,57 +49,82 @@ public class Test
 
 			log.warn("Query Structure Setup Time: "
 					+ (System.currentTimeMillis() - timeStamp_readQueryList));
-			
+
 		} catch (FileNotFoundException e)
 		{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
-		// 创建线程池
+		// ================ initialize the query input end ==================
+
+		File tweet_file = new File(args[1]);
+
+		// build the thread pool
 		ExecutorService pool = Executors.newFixedThreadPool(8);
 
-		// 设置文件
+		// set the tweet input source
 		GlobalEditDistanceStrategy.setTweetInputFile(tweet_file);
 
-		long timeStamp_matchSearching = System.currentTimeMillis();
-		
-		
+		// do the memory map
+		FileChannel fc = null;
+		MappedByteBuffer byteBuffer = null;
+		try
+		{
+			fc = new FileInputStream(tweet_file).getChannel();
+			byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY, 0, fc.size());
+			GlobalEditDistanceStrategy.setMappedByteBuffer(byteBuffer);
+
+		} catch (FileNotFoundException e)
+		{
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+
+		// assign the task to the thread pool
 		while (!query_list.isEmpty())
 		{
 			GlobalEditDistanceStrategy task = new GlobalEditDistanceStrategy();
-			
 
-			
 			task.setPlaceName(query_list.remove(0));
-			
+
 			pool.execute(task);
 		}
 
+		if (fc != null)
+			try
+			{
+				fc.close();
+			} catch (IOException e)
+			{
+
+				e.printStackTrace();
+			}
 		pool.shutdown();
 
-
 	}
-	
-	
-	
-	//TODO 写一个对比方法确认一下map 转nextLine和scanner io nextLine的效率
-	//see the README.md for notes
+
+	// TODO 写一个对比方法确认一下map 转nextLine和scanner io nextLine的效率
+	// see the README.md for notes
 	public static void testMap(String filePath)
 	{
 		Long startTime = System.currentTimeMillis();
 		try
 		{
 			FileChannel fc = new FileInputStream(filePath).getChannel();
-			MappedByteBuffer byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY,0, fc.size());
+			MappedByteBuffer byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY,
+					0, fc.size());
 			Charset charset = Charset.forName("US-ASCII");
 			CharsetDecoder decoder = charset.newDecoder();
 			CharBuffer charBuffer = decoder.decode(byteBuffer);
-			Scanner sc = new Scanner(charBuffer).useDelimiter(System.getProperty("line.separator"));
-			while(sc.hasNext())
+			Scanner sc = new Scanner(charBuffer).useDelimiter(System
+					.getProperty("line.separator"));
+			while (sc.hasNext())
 			{
-				//read str as dumb spin
-				String tmpStr=sc.next();
+				// read str as dumb spin
+				String tmpStr = sc.next();
 			}
 			fc.close();
 		} catch (FileNotFoundException e)
@@ -122,13 +141,13 @@ public class Test
 			e.printStackTrace();
 		}
 		Long estimatedTime = System.currentTimeMillis() - startTime;
-		System.out.printf("map time used:"+estimatedTime);
+		System.out.printf("map time used:" + estimatedTime);
 	}
 
-	public static void testScannerIOStream(String filePath) 
+	public static void testScannerIOStream(String filePath)
 	{
 		Long startTime = System.currentTimeMillis();
-		Scanner sc=null;
+		Scanner sc = null;
 		try
 		{
 			sc = new Scanner(new File(filePath));
@@ -137,16 +156,15 @@ public class Test
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		while(sc.hasNext())
+
+		while (sc.hasNext())
 		{
-			//read str as dumb spin
-			String tmpStr=sc.next();
+			// read str as dumb spin
+			String tmpStr = sc.next();
 		}
 		Long estimatedTime = System.currentTimeMillis() - startTime;
-		System.out.printf("\npure io time used:"+estimatedTime);	
-		
+		System.out.printf("\npure io time used:" + estimatedTime);
+
 	}
-	
-	
+
 }

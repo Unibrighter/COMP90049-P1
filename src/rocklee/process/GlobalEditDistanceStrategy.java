@@ -1,15 +1,7 @@
 package rocklee.process;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Writer;
 import java.nio.CharBuffer;
-import java.nio.MappedByteBuffer;
-import java.nio.channels.FileChannel;
-import java.nio.charset.CharacterCodingException;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetDecoder;
 import java.util.Scanner;
@@ -17,9 +9,7 @@ import java.util.Scanner;
 import org.apache.log4j.Logger;
 
 import rocklee.methods.Approach;
-import rocklee.units.PlaceName;
 import rocklee.units.Tweet;
-import sun.security.util.Length;
 
 /***
  * 
@@ -37,7 +27,7 @@ import sun.security.util.Length;
  *
  */
 
-public class GlobalEditDistanceStrategy implements Runnable
+public class GlobalEditDistanceStrategy extends AbstractStrategy
 {
 
 	// for debug and info, since log4j is thread safe, it can also be used to
@@ -45,70 +35,29 @@ public class GlobalEditDistanceStrategy implements Runnable
 	private static Logger log = Logger
 			.getLogger(GlobalEditDistanceStrategy.class);
 
-	// this value is the minimum limit that a half-done-match can be filtered as
-	// an approximate match
-	public static final double THRESHOLD = 0.9;
-
-	// the path for the resource is the same for every thread
-	private static File TWEET_INPUT_FILE = null;
-
-	// this value shows the match of the entire string as the process goes on
-	// ranging from 0 to 1
-	private double match_rate = -1d;
-
-	private PlaceName placeName = null;
-
-	// input source and its stream for tweets, every thread has an individual
-	// scanner
-	private Scanner scanner = null;
-
-	private boolean mapMemory = false;
-
-	public static void setTweetInputFile(File file)
-	{
-		GlobalEditDistanceStrategy.TWEET_INPUT_FILE = file;
-	}
-
-	public void setPlaceName(PlaceName placeName)
-	{
-		this.placeName = placeName;
-	}
-
 	public void run()
 	{
-		FileChannel fc =null;
+
 		// set up the scanner for tweets input
 		try
 		{
-			
 
 			if (!mapMemory)
-			{
+			{// direct disk IO stream
 				this.scanner = new Scanner(
 						GlobalEditDistanceStrategy.TWEET_INPUT_FILE);
 			}
-		
+
 			else
 			{// memory map is used
-				
-				MappedByteBuffer byteBuffer=null;
-				try
-				{
-					fc = new FileInputStream(GlobalEditDistanceStrategy.TWEET_INPUT_FILE).getChannel();
-					byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY,0, fc.size());
-				} catch (FileNotFoundException e)
-				{
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				} catch (IOException e)
-				{
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
+
 				Charset charset = Charset.forName("US-ASCII");
 				CharsetDecoder decoder = charset.newDecoder();
-				CharBuffer charBuffer = decoder.decode(byteBuffer);
-				this.scanner = new Scanner(charBuffer).useDelimiter(System.getProperty("line.separator"));
+				CharBuffer charBuffer = decoder
+						.decode(GlobalEditDistanceStrategy.mappedByteBuffer
+								.asReadOnlyBuffer());
+				this.scanner = new Scanner(charBuffer).useDelimiter(System
+						.getProperty("line.separator"));
 			}
 
 		} catch (IOException e)
@@ -119,99 +68,96 @@ public class GlobalEditDistanceStrategy implements Runnable
 		{
 
 			Tweet tmpTweet = new Tweet(scanner.nextLine());
-//			System.out.println("thread deads with:" + placeName.getFullName()
-//					+ " and tweet #" + tmpTweet.getTweetID());
+			// System.out.println("thread deads with:" + placeName.getFullName()
+			// + " and tweet #" + tmpTweet.getTweetID());
+			this.dealWithOneTweet(tmpTweet);
 
-			// the general idea is to capture the first index that a perfect
-			// individual word match
+		}
+		scanner.close();
 
-			String[] placeNameTokens = placeName.getTokens();
+	}
 
-			String[] tweetTokens = tmpTweet.getTokens();
+	@Override
+	public void dealWithOneTweet(Tweet tmpTweet)
+	{
+		// the general idea is to capture the first index that a perfect
+		// individual word match
 
-			// within one piece of tweet
-			for (int i = 0; i <= tweetTokens.length - placeNameTokens.length; i++)
+		String[] placeNameTokens = placeName.getTokens();
+
+		String[] tweetTokens = tmpTweet.getTokens();
+
+		// within one piece of tweet
+		for (int i = 0; i <= tweetTokens.length - placeNameTokens.length; i++)
+		{
+
+			// start calculate each match rate
+			match_rate = Approach.globalEditDistance(placeNameTokens[0],
+					tweetTokens[i]);
+
+			// found one which is over threshold
+			// TODO here is an assumption to make: the first word for a
+			// place name is a must match
+			if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
 			{
-
-				// start calculate each match rate
-				match_rate = Approach.globalEditDistance(placeNameTokens[0],
-						tweetTokens[i]);
-
-				// found one which is over threshold
-				// TODO here is an assumption to make: the first word for a
-				// place name is a must match
+				// log.info("!!!First Word Match Rate!!! " + match_rate
+				// + " for " + placeName.getFullName() + " # "
+				// + tmpTweet.getTweetID());
+				// look further to see whether the last one also match
+				match_rate = Approach.globalEditDistance(
+						placeNameTokens[placeNameTokens.length - 1],
+						tweetTokens[i + placeNameTokens.length - 1]);
 				if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
-				{
-//					log.info("!!!First Word Match Rate!!! " + match_rate
-//							+ " for " + placeName.getFullName() + " # "
-//							+ tmpTweet.getTweetID());
-					// look further to see whether the last one also match
-					match_rate = Approach.globalEditDistance(
-							placeNameTokens[placeNameTokens.length - 1],
-							tweetTokens[i + placeNameTokens.length - 1]);
-					if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
-					{// last element also matched,then we need check the words
-						// between the head and tail
+				{// last element also matched,then we need check the words
+					// between the head and tail
 
-//						log.info("!!!Last Word Match Rate!!! " + match_rate
-//								+ " for " + placeName.getFullName() + " # "
-//								+ tmpTweet.getTweetID());
+					// log.info("!!!Last Word Match Rate!!! " + match_rate
+					// + " for " + placeName.getFullName() + " # "
+					// + tmpTweet.getTweetID());
 
-						boolean matched = true;
+					boolean matched = true;
 
-						// from second to the second last
-						for (int j = 1; j < placeNameTokens.length - 1; j++)
+					// from second to the second last
+					for (int j = 1; j < placeNameTokens.length - 1; j++)
+					{
+						match_rate = Approach.globalEditDistance(
+								placeNameTokens[j], tweetTokens[i + j]);
+						if (match_rate < GlobalEditDistanceStrategy.THRESHOLD)
 						{
-							match_rate = Approach.globalEditDistance(
-									placeNameTokens[j], tweetTokens[i + j]);
-							if (match_rate < GlobalEditDistanceStrategy.THRESHOLD)
-							{
-								// some one in the middle seems to be unhappy
-								matched = false;// failed match this round
-								break;
-							}
-
-						}
-
-						if (!matched)
-							continue;
-
-						else
-						{// found a successful match in one tweet!
-
-							// out put the result
-							String result_output = "@@@Place Name:"
-									+ placeName.getFullName()
-									+ "\tMatched part in Tweet("
-									+ tmpTweet.getTweetID()
-									+ ")\tFor "
-									+ tmpTweet.getPartOfContent(i,
-											placeNameTokens.length)+"\n";
-
-							log.debug(result_output);
-
+							// some one in the middle seems to be unhappy
+							matched = false;// failed match this round
+							break;
 						}
 
 					}
 
+					if (!matched)
+						continue;
+
+					else
+					{// found a successful match in one tweet!
+
+						// out put the result
+						String result_output = "@@@Place Name:"
+								+ placeName.getFullName()
+								+ "\tMatched part in Tweet("
+								+ tmpTweet.getTweetID()
+								+ ")\tFor "
+								+ tmpTweet.getPartOfContent(i,
+										placeNameTokens.length) + "\n";
+
+						log.debug(result_output);
+
+					}
+
 				}
-				// last one does not match, move to next
-				else
-					continue;
 
 			}
+			// last one does not match, move to next
+			else
+				continue;
+
 		}
-		scanner.close();
-		if(fc!=null)
-			try
-			{
-				fc.close();
-			} catch (IOException e)
-			{
-
-				e.printStackTrace();
-			}
-		
 
 	}
 }
