@@ -1,7 +1,7 @@
 package rocklee.methods;
 
-import org.apache.log4j.Logger;
-import rocklee.units.*;
+import rocklee.units.PlaceName;
+import rocklee.units.Tweet;
 
 /***
  * This Class uses some Algorithm to do the comparisons between the String and
@@ -85,13 +85,77 @@ public class Approach
 	 * 
 	 * Instead of compare the texts to calculate the result
 	 */
-	public static double localEditDistance(PlaceName placeName, Tweet tweet)
+	public static int[][] localEditDistance(String text1, String text2)
 	{
-		double result = 0d;
+		double result = text1.length();
 
-		// TODO implement the algorithm
+		int len1 = text1.length();
+		int len2 = text2.length();
 
-		return result;
+		// len1+1, len2+1, because finally return dp[len1][len2]
+		int[][] local_distance_matrix = new int[len1 + 1][len2 + 1];
+
+		for (int i = 0; i <= len1; i++)
+		{
+			local_distance_matrix[i][0] = 0;
+		}
+
+		for (int j = 0; j <= len2; j++)
+		{
+			local_distance_matrix[0][j] = 0;
+		}
+
+		// iterate though, and check last char
+		for (int i = 0; i < len1; i++)
+		{
+			char c1 = text1.charAt(i);
+			for (int j = 0; j < len2; j++)
+			{
+				char c2 = text2.charAt(j);
+
+				// if last two chars equal
+
+					// update dp value for +1 length
+					int replace=local_distance_matrix[i][j]+((c1 == c2)?1:-1);
+					int insert = local_distance_matrix[i][j + 1] - 1;
+					int delete = local_distance_matrix[i + 1][j] - 1;
+
+					int max = replace < insert ? insert : replace;
+					max = delete < max ? max : delete;
+					
+					local_distance_matrix[i + 1][j + 1] = max>0?max:0;
+				
+			}
+		}
+		
+		// this means it will take global_distance_matrix[i + 1][j + 1] times
+		// operation
+		// to transform from word 1 to word 2
+
+		// we use the first word's length as measurement in case that the word
+		// is too short to give a precise judgement
+//		result = (len1 - local_distance_matrix[len1][len2]) / result;
+//		return result;
+		
+		return local_distance_matrix;
 	}
+	
+	public static void printLocalDistanceMatrix(String str1,String str2)
+	{
+		System.out.println(" "+str2);
+		int [][] matrix=localEditDistance(str1, str2);
+		
+		for (int i = 0; i < str1.length(); i++)
+		{
+			System.out.print(str1.charAt(i));
+			for (int j = 0; j < str2.length(); j++)
+			{
+				System.out.print(matrix[i+1][j+1]);
+			}
+			System.out.println();
+			
+		}
+	}
+	
 
 }

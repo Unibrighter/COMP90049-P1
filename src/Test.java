@@ -15,8 +15,6 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
-import com.sun.corba.se.impl.ior.ByteBuffer;
-
 import rocklee.methods.Approach;
 import rocklee.process.GlobalEditDistanceStrategy;
 import rocklee.units.PlaceName;
@@ -29,6 +27,12 @@ public class Test
 
 	public static void main(String[] args)
 	{
+		
+		Approach.printLocalDistanceMatrix("jack lee", "i just love u jack slee u mother fucker");
+		Approach.printLocalDistanceMatrix("sonny", "pononk");
+		
+		
+		
 		// ================ initialize the query input begin ==================
 
 		File query_file = new File(args[0]);
