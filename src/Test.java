@@ -15,8 +15,7 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
-import rocklee.methods.Approach;
-import rocklee.process.GlobalEditDistanceStrategy;
+import rocklee.process.TokenProcessStrategy;
 import rocklee.units.PlaceName;
 
 public class Test
@@ -51,7 +50,6 @@ public class Test
 
 		} catch (FileNotFoundException e)
 		{
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -63,7 +61,7 @@ public class Test
 		ExecutorService pool = Executors.newFixedThreadPool(8);
 
 		// set the tweet input source
-		GlobalEditDistanceStrategy.setTweetInputFile(tweet_file);
+		TokenProcessStrategy.setTweetInputFile(tweet_file);
 
 		// do the memory map
 		FileChannel fc = null;
@@ -72,7 +70,7 @@ public class Test
 		{
 			fc = new FileInputStream(tweet_file).getChannel();
 			byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY, 0, fc.size());
-			GlobalEditDistanceStrategy.setMappedByteBuffer(byteBuffer);
+			TokenProcessStrategy.setMappedByteBuffer(byteBuffer);
 
 		} catch (FileNotFoundException e)
 		{
@@ -85,7 +83,7 @@ public class Test
 		// assign the task to the thread pool
 		while (!query_list.isEmpty())
 		{
-			GlobalEditDistanceStrategy task = new GlobalEditDistanceStrategy();
+			TokenProcessStrategy task = new TokenProcessStrategy();
 
 			task.setPlaceName(query_list.remove(0));
 
