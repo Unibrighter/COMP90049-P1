@@ -1,5 +1,7 @@
 package rocklee.methods;
 
+import java.util.ArrayList;
+
 import rocklee.units.PlaceName;
 import rocklee.units.Tweet;
 
@@ -16,7 +18,7 @@ import rocklee.units.Tweet;
 public class Approach
 {
 
-	/*
+	/**
 	 * Use the global edit distance strategy to compute the match rate
 	 * 
 	 * And use word 1's length as the measurement for difference degree
@@ -78,20 +80,21 @@ public class Approach
 		return result;
 	}
 
-	/*
+	/**
 	 * Use the local edit distance strategy to compute the match rate
 	 * 
 	 * Note this is to find whether the query exists in the given aim Text
 	 * 
 	 * Instead of compare the texts to calculate the result
 	 */
-	public static double localEditDistance(PlaceName q,Tweet t ,double threshold,StringBuffer strBuffer)
+	public static double localEditDistance(PlaceName q, Tweet t,
+			double threshold, StringBuffer strBuffer)
 	{
-		String text1=q.getFullName();
-		String text2=t.getFullContent();
-				
-		double result=text1.length();
-		
+		String text1 = q.getFullName();
+		String text2 = t.getFullContent();
+
+		double result = text1.length();
+
 		int len1 = text1.length();
 		int len2 = text2.length();
 
@@ -133,58 +136,210 @@ public class Approach
 				if (max > 0)
 				{
 					local_distance_matrix[i + 1][j + 1] = max;
-					
-					//we need to utilize the maximum value of the local distance matrix
-					if(max>=max_record)
+
+					// we need to utilize the maximum value of the local
+					// distance matrix
+					if (max >= max_record)
 					{
-						index_i=i;
-						index_j=j;
-						max_record=max;
+						index_i = i;
+						index_j = j;
+						max_record = max;
 					}
-					
+
 				} else
 					local_distance_matrix[i + 1][j + 1] = 0;
 			}
 		}
-		
-		//		return local_distance_matrix;
-		
-		//calculate the final score
-		result=max_record/result;
-		
-		if(result>=threshold)
-		strBuffer.append(t.getBestMatchPartOfContent(index_j, len1));//this part is going to be print a
-		
+
+		// return local_distance_matrix;
+
+		// calculate the final score
+		result = max_record / result;
+
+		if (result >= threshold)
+			strBuffer.append(t.getBestMatchPartOfContent(index_j, len1));// this
+																			// part
+																			// is
+																			// going
+																			// to
+																			// be
+																			// print
+																			// a
+
 		return result;
-		
+
 	}
 
-	// n-gram distance
-	public static double distance(String s0, String s1, int n)
+	/**
+	 * Use n gram to compute the match rate
+	 * 
+	 * this would be a little bit slow due the the process and time spent on
+	 * string split and store
+	 * 
+	 * The smaller the n-gram distance, the closer the match.
+	 */
+	public static double nGramDistance(String s0, String s1, int n)
 	{
-		double result = 0d;
+
+		// some special rare cases
+		final int sl = s0.length();
+		final int tl = s1.length();
+
+		if (sl == 0 || tl == 0)
+		{
+			if (sl == tl)
+			{
+				return 1;
+			} else
+			{
+				return 0;
+			}
+		}
+
+		int cost = 0;
+		if (sl < n || tl < n)
+		{
+			for (int i = 0, ni = Math.min(sl, tl); i < ni; i++)
+			{
+				if (s0.charAt(i) == s1.charAt(i))
+				{
+					cost++;
+				}
+			}
+			return (double) cost / Math.max(sl, tl);
+		}
+
+		// then comes to the common case
+		ArrayList<String> collection_1 = new ArrayList<String>();
+		ArrayList<String> collection_2 = new ArrayList<String>();
+
+		for (int i = 0; i < sl - n; i++)
+		{
+
+			// sub string of s1
+			String tmpSub = s0.substring(i, i + n);
+
+			if (collection_1.contains(tmpSub))
+				continue;
+
+			collection_1.add(tmpSub);
+		}
+
+		for (int i = 0; i < tl - n; i++)
+		{
+			// sub string of s2
+			String tmpSub = s1.substring(i, i + n);
+
+			if (collection_2.contains(tmpSub))
+				continue;
+
+			if (collection_1.contains(tmpSub))
+				cost++;
+		}
+
+		// |A|+|B|-2|A¡ÉB|
+		double result = collection_1.size() + collection_2.size();
+
+		result = (result - cost * 2) / result;
 
 		return result;
 
 	}
 
-	// This method is only used to test the output of a accurate
-	// localDistanceMatrix
-//	public static void printLocalDistanceMatrix(String str1, String str2)
-//	{
-//		System.out.println(" " + str2);
-//		int[][] matrix = localEditDistance(str1, str2);
-//
-//		for (int i = 0; i < str1.length(); i++)
-//		{
-//			System.out.print(str1.charAt(i));
-//			for (int j = 0; j < str2.length(); j++)
-//			{
-//				System.out.print(matrix[i + 1][j + 1]);
-//			}
-//			System.out.println();
-//
-//		}
-//	}
+	/**
+	 * 
+	 * The Soundex sound-alike matching technique is well-known, widely used,
+	 * simple to implement. Transforms a string into a 4-character code that
+	 * represents its sound.
+	 * 
+	 * Then the problem is transformed into string comparison
+	 * 
+	 * */
+	public static double soundexDistance(String word1, String word2)
+	{
+		String soundex1=digitEncodeWord(word1);
+		String soundex2=digitEncodeWord(word2);
+		
+		return soundex1.equalsIgnoreCase(soundex2)?1:0;
+		
+		
+	}
+
+	private static String digitEncodeWord(String word)
+	{
+		char[] str_raw = word.toLowerCase().toCharArray();
+
+		for (int i = 1; i < str_raw.length; i++)
+		{
+			switch (str_raw[i])
+			{
+			case 'a':
+			case 'e':
+			case 'h':
+			case 'i':
+			case 'o':
+			case 'u':
+			case 'w':
+			case 'y':
+				str_raw[i] = '0';
+				break;
+
+			case 'b':
+			case 'f':
+			case 'p':
+			case 'v':
+				str_raw[i] = '1';
+				break;
+
+			case 'c':
+			case 'g':
+			case 'j':
+			case 'k':
+			case 'q':
+			case 's':
+			case 'x':
+			case 'z':
+				str_raw[i] = '2';
+				break;
+
+			case 'd':
+			case 't':
+				str_raw[i] = '3';
+				break;
+
+			case 'l':
+				str_raw[i] = '4';
+				break;
+			case 'm':
+			case 'n':
+				str_raw[i] = '5';
+				break;
+			case 'r':
+				str_raw[i] = '6';
+				break;
+
+			default:
+				break;
+			}
+		}
+		
+		//remove doubles and duplicates
+		char tmpChar=str_raw[0];
+		StringBuffer strBuf=new StringBuffer("");
+		strBuf.append(tmpChar);
+		for (int j = 1; j < str_raw.length; j++)
+		{
+			if(str_raw[j]==tmpChar)//same as the last char
+				continue;
+			
+			else
+			{
+				tmpChar=str_raw[j];
+				strBuf.append(str_raw[j]);
+			}
+		}
+		
+		return strBuf.substring(0, 4<=strBuf.length()?4:strBuf.length());
+	}
 
 }
