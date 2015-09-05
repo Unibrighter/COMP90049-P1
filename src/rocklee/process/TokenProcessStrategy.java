@@ -139,9 +139,9 @@ public class TokenProcessStrategy extends AbstractStrategy
 								+ placeName.getFullName()
 								+ "\tMatched part in Tweet("
 								+ tmpTweet.getTweetID()
-								+ ")\tFor "
+								+ ")\tFor \"..."
 								+ tmpTweet.getBestMatchSequenceOfContent(i,
-										placeNameTokens.length) + "\n";
+										placeNameTokens.length) + "...\"\n";
 
 						log.debug(result_output);
 

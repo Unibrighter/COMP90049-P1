@@ -11,6 +11,7 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
+import rocklee.process.AbstractStrategy;
 import rocklee.process.StringProcessStrategy;
 import rocklee.process.TokenProcessStrategy;
 import rocklee.units.PlaceName;
@@ -38,18 +39,52 @@ public class Main
 
 		Main.initializeTweetSetting(args[1]);
 
+		// determine the process strategy we use
+		boolean strStrategy = false;
+		for (int i = 0; i < args.length; i++)
+		{
+			if ("-str".equalsIgnoreCase(args[i]))
+			{
+				strStrategy = true;
+				break;
+			}
+
+		}
+
+		if (strStrategy)
+		{
+			System.out
+					.println("StringProcessStrategy/local edit distance approach");
+		}
+
+		else
+		{
+			System.out
+					.println("TokenProcessStrategy/global edit distance approach");
+		}
+
 		// assign the task to the thread pool
 		while (!query_list.isEmpty())
 		{
-			StringProcessStrategy task = new StringProcessStrategy();
+			AbstractStrategy task = null;
+			if (strStrategy)
+			{
+
+				task = new StringProcessStrategy();
+			}
+
+			else
+			{
+
+				task = new TokenProcessStrategy();
+			}
 
 			task.setPlaceName(query_list.remove(0));
 
 			pool.execute(task);
 		}
 
-		
-		//clean up
+		// clean up
 		if (fc != null)
 			try
 			{
@@ -115,7 +150,7 @@ public class Main
 		{
 			fc = new FileInputStream(tweet_file).getChannel();
 			byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY, 0, fc.size());
-			
+
 			// for both two main strategies
 			TokenProcessStrategy.setMappedByteBuffer(byteBuffer);
 			StringProcessStrategy.setMappedByteBuffer(byteBuffer);

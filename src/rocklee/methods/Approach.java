@@ -85,7 +85,7 @@ public class Approach
 	 * 
 	 * Instead of compare the texts to calculate the result
 	 */
-	public static double localEditDistance(PlaceName q,Tweet t ,StringBuffer strBuffer)
+	public static double localEditDistance(PlaceName q,Tweet t ,double threshold,StringBuffer strBuffer)
 	{
 		String text1=q.getFullName();
 		String text2=t.getFullContent();
@@ -151,6 +151,8 @@ public class Approach
 		
 		//calculate the final score
 		result=max_record/result;
+		
+		if(result>=threshold)
 		strBuffer.append(t.getBestMatchPartOfContent(index_j, len1));//this part is going to be print a
 		
 		return result;

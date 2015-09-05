@@ -71,9 +71,13 @@ public class Tweet
 	public String getBestMatchPartOfContent(int index_max, int aim_length)
 	{
 		int start_index=index_max-aim_length;
+		
 		while(start_index>0&&this.fullContent.charAt(start_index)!=' ')
 			start_index--;
+		start_index=start_index>0?start_index:0;
+
 		int end_index=index_max+1;
+		
 		while(end_index<this.fullContent.length()&&this.fullContent.charAt(start_index)!=' ')
 			end_index++;
 		return this.fullContent.substring(start_index, end_index);

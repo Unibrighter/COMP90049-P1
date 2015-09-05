@@ -89,7 +89,7 @@ public class StringProcessStrategy extends AbstractStrategy
 	{
 		StringBuffer strBuffer=new StringBuffer("");
 		
-		double match_rate=Approach.localEditDistance(this.placeName, tmpTweet, strBuffer);
+		double match_rate=Approach.localEditDistance(this.placeName, tmpTweet,StringProcessStrategy.THRESHOLD, strBuffer);
 		
 		if(match_rate>=StringProcessStrategy.THRESHOLD)
 		{//print the relating info to the log file

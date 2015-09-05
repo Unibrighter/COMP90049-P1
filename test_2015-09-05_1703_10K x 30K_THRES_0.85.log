@@ -1,0 +1,887 @@
+2015-09-05 16:42:04 WARN  Main:87 - Query Structure Setup Time: 61
+2015-09-05 16:42:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Accuweather	Matched part in Tweet(4964590926)	For  httpwwwaccuweather
+2015-09-05 16:42:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Acker Park	Matched part in Tweet(1526985305)	For  Wicker Park
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(6056102899)	For  JayAdel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(5664670916)	For  Adel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(3881127423)	For  Adel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adelanto	Matched part in Tweet(3881127423)	For  mismo Adelant
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(4891160592)	For  Adel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(4815704621)	For  Adel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Addis	Matched part in Tweet(1621841665)	For  AlAmirAddis
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(2065994281)	For  todayAdel
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(5630844616)	For Adelle Charles httpbitlyciEk
+2015-09-05 16:42:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Adel	Matched part in Tweet(3758983660)	For AceRimmerAdel Would have been a reasonable night without the fourth game 
+2015-09-05 16:42:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Alvin	Matched part in Tweet(6125640647)	For  Alvin
+2015-09-05 16:42:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Alvin	Matched part in Tweet(6145553059)	For  Alvin
+2015-09-05 16:42:23 DEBUG StringProcessStrategy:103 - @@@Place Name:Annex	Matched part in Tweet(5365812873)	For  Annex
+2015-09-05 16:42:23 DEBUG StringProcessStrategy:103 - @@@Place Name:Annex	Matched part in Tweet(5201683190)	For  Annex
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(5538722390)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4572834824)	For  KingArthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(6048810746)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4697490799)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(5523393045)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4574663280)	For  KingArthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(3432075858)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(6113780251)	For  KingArthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(3251258956)	For MacArthur Foundation seeks to identify social programs that work httpbitlyFRlvF VIDEO
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4122108579)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4401395478)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Arthur	Matched part in Tweet(4029880694)	For  Arthur
+2015-09-05 16:42:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Artie	Matched part in Tweet(5607444323)	For  Artie
+2015-09-05 16:42:34 DEBUG StringProcessStrategy:103 - @@@Place Name:Artois	Matched part in Tweet(5730483860)	For  Artois
+2015-09-05 16:42:34 DEBUG StringProcessStrategy:103 - @@@Place Name:Artie	Matched part in Tweet(5226928122)	For  Artie
+2015-09-05 16:42:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Bachman	Matched part in Tweet(6336066117)	For  hrachman
+2015-09-05 16:42:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Bachman	Matched part in Tweet(5790007690)	For  Bachman
+2015-09-05 16:42:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Bada	Matched part in Tweet(5088194292)	For  Bada
+2015-09-05 16:42:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Bada	Matched part in Tweet(5848426034)	For  Bada
+2015-09-05 16:42:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Bada	Matched part in Tweet(5047865810)	For  Bada
+2015-09-05 16:42:44 DEBUG StringProcessStrategy:103 - @@@Place Name:Badger Pass	Matched part in Tweet(6020630764)	For  Badger Pass
+2015-09-05 16:42:46 DEBUG StringProcessStrategy:103 - @@@Place Name:Ballona	Matched part in Tweet(4927629284)	For Ballon Boy Falcon in music video httpwwwwkktfmcompagestoddbakerhtml
+2015-09-05 16:42:46 DEBUG StringProcessStrategy:103 - @@@Place Name:Ballona	Matched part in Tweet(6228652710)	For  wins Ballon
+2015-09-05 16:42:46 DEBUG StringProcessStrategy:103 - @@@Place Name:Ballona	Matched part in Tweet(4355075639)	For  Redemption Ballon
+2015-09-05 16:43:03 DEBUG StringProcessStrategy:103 - @@@Place Name:Beckton	Matched part in Tweet(5472819259)	For  Beck ton
+2015-09-05 16:43:17 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(5580173196)	For  bethany
+2015-09-05 16:43:17 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(6250489416)	For BethanyMarieFML last night i couldnt sleep so i worked out for hours and ran for hour this morning
+2015-09-05 16:43:17 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(3991193590)	For  Annie Bethan
+2015-09-05 16:43:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(2177388373)	For  bethany
+2015-09-05 16:43:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(5590872226)	For  Bethany
+2015-09-05 16:43:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(5752769876)	For  bethany
+2015-09-05 16:43:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(3647157894)	For Bethany Dillon is coming to my church today
+2015-09-05 16:43:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Bethany	Matched part in Tweet(3805399993)	For kbethany alas I dont have any either But I can get you some cheap yeah
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(3249008145)	For  to Blackberr
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(2150386098)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5448577824)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(6156011437)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(2692014496)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(1696370874)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5658094441)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(6292245426)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5983196968)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5776273358)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(6322374726)	For Blackberry feedback on the call yo hrhappyhour
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(4784882882)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5569537344)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(2071985666)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(1464885701)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(5866702954)	For  blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(4097275045)	For Blackberry Desktop app coming to Mac on the th httpjmpmfPpn
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(4141474090)	For brianblackberry I was only passing through I didnt know that was your area
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(4128944773)	For  Blackberry
+2015-09-05 16:43:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Blackberry	Matched part in Tweet(4307990372)	For  Blackberry
+2015-09-05 16:43:34 DEBUG StringProcessStrategy:103 - @@@Place Name:Black Tank	Matched part in Tweet(5153876331)	For NeuBlack Thanks for following The LA source for Design Culture and Style httpwwwneublackcom
+2015-09-05 16:43:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Boice	Matched part in Tweet(5489725963)	For  Boice
+2015-09-05 16:43:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Borland	Matched part in Tweet(4565392597)	For  michaelorland
+2015-09-05 16:43:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Borland	Matched part in Tweet(5679923307)	For  KSC orland
+2015-09-05 16:43:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Borland	Matched part in Tweet(6174097815)	For  httpcsrpromocomorland
+2015-09-05 16:43:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Borland	Matched part in Tweet(5236353948)	For  httpwwworland
+2015-09-05 16:43:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Borland	Matched part in Tweet(5239204426)	For  tweetup orland
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(6249205637)	For  Bowden
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(6245999601)	For  Bowden
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(6418359935)	For Bowden Gets Retirement Wish httpsaccwoz
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(5425980811)	For  Bowden
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(6212659921)	For  Bowden
+2015-09-05 16:43:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Bowden	Matched part in Tweet(4055734742)	For  Bowden
+2015-09-05 16:43:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5355973570)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5397753127)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5753387087)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5498230849)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5152294512)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5769851543)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5070938163)	For DomBrady You going to see it
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5177057215)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(6218062255)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5354622960)	For BradEYoung woo woo about your commercial Youll have to talk to me here for a bit until Im ready to go back to FB Arrgh
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5710692481)	For  JosephBrad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(3727063221)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5727024240)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5827832839)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5791327283)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5427448919)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5629780025)	For Brady or Manning in second half Flip a coin httptinyurlcomycysvgr
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5835030759)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5896139273)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5757720991)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5398034232)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5833579941)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4478682876)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5553015048)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5653548940)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(6225310498)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(5815818626)	For  JosephBrad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4335359747)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4321453325)	For RadioBradshaw As well as the fatfree gummy bearjellybeancandy corn diet
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(3936708257)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4010729834)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4059670037)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4117706534)	For DomBrady seeing your work schedule makes me thankful for my ampm shifts lol
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(3998239714)	For BradGreenway Im excited because its going to be a great battle just like last season Going to turn out to be a great game
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(3973170758)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4134300924)	For BradBiggs Yes Field Turf Its time Jim Miller agrees on Comcast right now
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4123743110)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4118451245)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4112226963)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4142765808)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(3771008616)	For  Brad
+2015-09-05 16:43:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Brad	Matched part in Tweet(4130173661)	For  Brad
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(4402637735)	For  Brave
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(5396610054)	For BraveHeartWomen Yep Looking forward to seeing your brilliance in motion at Yoovolution virtual event this week
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(1293511278)	For  Brave
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(5221979783)	For  Brave
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(5869368531)	For  Brave
+2015-09-05 16:43:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(5288601973)	For Brave Combo Tonight pm Happy Halloween Wells today tomorrow httpbitlylrdsa
+2015-09-05 16:43:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(4092186685)	For  Brave
+2015-09-05 16:43:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(4304822538)	For Braves win They Now have wins and losses
+2015-09-05 16:43:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(4044155217)	For Braves R Church singled to center O Infante scored NYM ATL mlb
+2015-09-05 16:43:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Brave	Matched part in Tweet(4020277716)	For  Brave
+2015-09-05 16:44:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Bronson	Matched part in Tweet(2784035864)	For  bronson
+2015-09-05 16:44:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Bronson	Matched part in Tweet(4919923616)	For  Bronson
+2015-09-05 16:44:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Bronson	Matched part in Tweet(5408634021)	For  samantharonson
+2015-09-05 16:44:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Burrel	Matched part in Tweet(4309979889)	For  Burrel
+2015-09-05 16:44:23 DEBUG StringProcessStrategy:103 - @@@Place Name:Byland Cemetery	Matched part in Tweet(4063412723)	For  Oakland Cemetery
+2015-09-05 16:44:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Canal P	Matched part in Tweet(5918708710)	For  Memorabilia Canal 
+2015-09-05 16:44:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Canal P	Matched part in Tweet(5382515292)	For  at Canal 
+2015-09-05 16:44:47 DEBUG StringProcessStrategy:103 - @@@Place Name:Castille	Matched part in Tweet(5005180327)	For JimCastilloWX indeed
+2015-09-05 16:44:47 DEBUG StringProcessStrategy:103 - @@@Place Name:Castille	Matched part in Tweet(5221691724)	For LibbyCastillo go to this site they do ghost tours downtown but its freakin bucks P httpsatxghosttourcom
+2015-09-05 16:44:47 DEBUG StringProcessStrategy:103 - @@@Place Name:Castille	Matched part in Tweet(4138511842)	For lacastilleja its me following him dorkie
+2015-09-05 16:44:47 DEBUG StringProcessStrategy:103 - @@@Place Name:Castille	Matched part in Tweet(4296389341)	For  Arielle Castill
+2015-09-05 16:45:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(4916693230)	For  Cherry
+2015-09-05 16:45:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(5515017699)	For  Cherry
+2015-09-05 16:45:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(4848105971)	For DirectorCherry Oh u did that video really good job Great song and concept
+2015-09-05 16:45:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(5533895804)	For  Cherry
+2015-09-05 16:45:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(4046313275)	For Cherry vodka jack daniels grenadine beer sprite mixed
+2015-09-05 16:45:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(4129955474)	For DirectorCherry were past that if you mean in the sense but every needs emotional support
+2015-09-05 16:45:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Cherry	Matched part in Tweet(4116168734)	For  Cherry
+2015-09-05 16:45:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Chevron	Matched part in Tweet(2511794842)	For  for Chevro
+2015-09-05 16:45:12 DEBUG StringProcessStrategy:103 - @@@Place Name:Chevron	Matched part in Tweet(3997664369)	For  Chevron
+2015-09-05 16:45:19 DEBUG StringProcessStrategy:103 - @@@Place Name:Chub	Matched part in Tweet(4408470271)	For ItsChubbieBaby hey whats good i got some beats to send you do you have an email or something where i can send them
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5839097359)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(2798457504)	For Clearly police dont need a reason to stop you when theyre loitering at stop signs rubbernecking thru windows trying to catch somebody
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5097033046)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4684307552)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5231762862)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5810518516)	For ClearedJobsNet baked and wired yeah one of my fave spots talk soon 
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(6056981638)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5827832839)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5771485757)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(6175937506)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(6179720667)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(6181321507)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(3166451565)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4459975576)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5559868409)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(5294054291)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4007016450)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(3993654640)	For RealClearPolitics Politics Nation Health Care Negotiations httptinyurlcomqptm
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4002575477)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4052670886)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4069694931)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4355313513)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4161734357)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4125865411)	For  Clear
+2015-09-05 16:45:35 DEBUG StringProcessStrategy:103 - @@@Place Name:Clear	Matched part in Tweet(4021381507)	For  Clear
+2015-09-05 16:45:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(5611890214)	For  compromise
+2015-09-05 16:45:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(6113567146)	For  compromise
+2015-09-05 16:45:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(5885809347)	For  compromise
+2015-09-05 16:45:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(5566975829)	For  compromise
+2015-09-05 16:45:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(5323791107)	For  compromise
+2015-09-05 16:45:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(4866578194)	For  uncompromise
+2015-09-05 16:45:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Compromise	Matched part in Tweet(4000489300)	For  compromise
+2015-09-05 16:46:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Cow Bar	Matched part in Tweet(5532097033)	For  Willow Bar
+2015-09-05 16:46:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Crampton	Matched part in Tweet(4840712264)	For  Frampton
+2015-09-05 16:46:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Crampton	Matched part in Tweet(5541580701)	For pcrampton Great idea RT Question How do you stay positive during a long job search Answer Volunteer like crazy 
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(5848956349)	For  Harrington
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(3875718699)	For varrington lock it cause people are crazy its like leaving the shades open in ur house lol
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(5344605824)	For RT arrington Scamville The Social Gaming Ecosystem Of Hell httpbitlyGqdyz Dont respond to Farmville offers for points or cash
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(3678396613)	For  Harrington
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(5355709252)	For  post arrington
+2015-09-05 16:46:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Darrington	Matched part in Tweet(4037020936)	For  Barrington
+2015-09-05 16:46:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Dave Well	Matched part in Tweet(4330037560)	For  have Well
+2015-09-05 16:46:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Davie	Matched part in Tweet(5721480044)	For AndySDavies Dont shoot your PC Check out these registry scans to see if thats your problem Free scan downloads at httpowlywyPN 
+2015-09-05 16:46:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Davie	Matched part in Tweet(5098920506)	For  CharlieDavie
+2015-09-05 16:46:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Davie	Matched part in Tweet(5780405922)	For  Davie
+2015-09-05 16:46:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Davie	Matched part in Tweet(4842543828)	For  Davie
+2015-09-05 16:46:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Davie	Matched part in Tweet(4888156241)	For  HartDavie
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(4772152340)	For DennisCalero Epic httpbitlyltTM
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(5647103377)	For DanielDennis Get better by Monday movie premiere The Road excellent
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(5690839024)	For Dennis Ross replacement as Iran pointman is a lobbyist for Iran httpbitlyzJIA
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(5980661104)	For  Dennis
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(4960234155)	For  Dennis
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(6193783941)	For  Dennis
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(5423906777)	For  Dennis
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(2828663746)	For  Dennis
+2015-09-05 16:46:43 DEBUG StringProcessStrategy:103 - @@@Place Name:Dennis	Matched part in Tweet(4155258777)	For  Dennis
+2015-09-05 16:46:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(2430539104)	For  Dominick
+2015-09-05 16:46:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(5598105981)	For  in Dominic
+2015-09-05 16:46:55 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(6067730406)	For Dominictnt Happy Thanksgiving to you too
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(5353107074)	For  check Dominic
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(5589073700)	For  Dominick
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(6012690590)	For JoshODonald i just got dunkin
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4843348946)	For  hear Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5875578526)	For  over Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(5469625798)	For  Dominick
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4473737959)	For  JaniceMcDonald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5686916359)	For McDonalds latest social media push An idolstyle singing competition among its staff httpowlyBtRV
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5231788517)	For  BillyMacDonald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5792924709)	For Wow Donald Trump is starting a new business venture check it out httpbitlySAMEH
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5425020215)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5304836215)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Dominick	Matched part in Tweet(3952147943)	For  to Dominic
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(6019238656)	For  about Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5893094412)	For  LorenaHeletea Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(3199376921)	For  Donalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(3846515380)	For  today Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(6398674560)	For  McDonald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4703708289)	For  mcdonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5511504509)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4930089620)	For Donald Trump can help you httpbitlyhnzsm
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5823627042)	For  fired Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4622241258)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5191036916)	For  mcdonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5509790888)	For  MacDonald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5526687217)	For  Noise Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(5005952975)	For Artist Donald Judd or cheap furniture httpbitlymc
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4535886314)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(2932181223)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4924996359)	For  EricTrump Donald
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(6193942488)	For  McDonalds
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4125055210)	For Donald Felsinger CEO Sempra Energy pay httpbitlyNBjV RT shout Robin Hood Where Are You Now
+2015-09-05 16:46:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Donalds	Matched part in Tweet(4346063866)	For  McDonalds
+2015-09-05 16:47:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Doyle	Matched part in Tweet(6068762181)	For KatieDoyle Hes pretty AND talented I hope it works out dear You deserve happiness
+2015-09-05 16:47:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Doyle	Matched part in Tweet(6271421110)	For  AlisonDoyle
+2015-09-05 16:47:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Doyle	Matched part in Tweet(4401395478)	For  Doyle
+2015-09-05 16:47:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Doyle	Matched part in Tweet(4391955676)	For  Doyle
+2015-09-05 16:47:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Doyle	Matched part in Tweet(4130173661)	For YoDoyle yea Matt Schaub is beastin day I got Brady over Cutler Cutler over Rodgers in my teams I got faith in our boy jaycutler
+2015-09-05 16:47:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Elevation	Matched part in Tweet(4150810143)	For  elevation
+2015-09-05 16:47:36 DEBUG StringProcessStrategy:103 - @@@Place Name:Emeryville	Matched part in Tweet(4133402095)	For  Emeryville
+2015-09-05 16:47:37 DEBUG StringProcessStrategy:103 - @@@Place Name:Emeryville	Matched part in Tweet(3997961805)	For  emeryville
+2015-09-05 16:47:51 DEBUG StringProcessStrategy:103 - @@@Place Name:Fanwood	Matched part in Tweet(5873038276)	For anwoodward I guess it depends Makes the day go by faster for sure However today is going to kill me with boredom
+2015-09-05 16:48:14 DEBUG StringProcessStrategy:103 - @@@Place Name:Foltz	Matched part in Tweet(3845060475)	For  Foltz
+2015-09-05 16:48:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Forbes	Matched part in Tweet(5413858814)	For  HeatherTForbes
+2015-09-05 16:48:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Forbes	Matched part in Tweet(5749482817)	For  Forbes
+2015-09-05 16:48:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Foot Lake	Matched part in Tweet(2159512227)	For  boot Lake
+2015-09-05 16:48:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Forbes	Matched part in Tweet(5897106421)	For  Forbes
+2015-09-05 16:48:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Forbes	Matched part in Tweet(6276924174)	For  Forbes
+2015-09-05 16:48:34 DEBUG StringProcessStrategy:103 - @@@Place Name:Front Beach	Matched part in Tweet(6167847351)	For  Waterfront Beach
+2015-09-05 16:48:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Gassett	Matched part in Tweet(6036307144)	For  cassett
+2015-09-05 16:48:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Gassett	Matched part in Tweet(5639019962)	For  y Gasset
+2015-09-05 16:48:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Gassett	Matched part in Tweet(3700494361)	For  cassett
+2015-09-05 16:48:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Gassett	Matched part in Tweet(5651713939)	For  Cassett
+2015-09-05 16:48:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Gaskins	Matched part in Tweet(5493154379)	For Sarahhaskins In the SF office we got to see the UK Italian versions of Target Women Check it out httptwitpiccomojjm
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(2103902809)	For  JGrahams
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(3905710997)	For  Sheila Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(2804334425)	For  Lindsey Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(3704211351)	For  to Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(4514604224)	For  Martha Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(4558312166)	For  alanabrahams
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(5830356875)	For  Oooooh Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(6107330340)	For  KameshiaGraham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(6318296990)	For  TruLifeCGraham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(5624464244)	For  Sen Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(5268794383)	For  Dan Graham
+2015-09-05 16:49:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Grahams	Matched part in Tweet(4414669399)	For grahamsmithy Cheers last night Pics look sick bruvva Will chat soon bout some work for you
+2015-09-05 16:49:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Hale Church	Matched part in Tweet(2715044920)	For  Glendale Church
+2015-09-05 16:49:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Hand Cemetery	Matched part in Tweet(4063412723)	For  Oakland Cemetery
+2015-09-05 16:49:44 DEBUG StringProcessStrategy:103 - @@@Place Name:Harter School	Matched part in Tweet(5241703366)	For  Charter School
+2015-09-05 16:49:47 DEBUG StringProcessStrategy:103 - @@@Place Name:Hatmaker	Matched part in Tweet(4960975746)	For  beatmaker
+2015-09-05 16:49:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Henry Ford	Matched part in Tweet(6298119000)	For  Henry Ford
+2015-09-05 16:49:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Henry Ford	Matched part in Tweet(6258274048)	For  Henry Ford
+2015-09-05 16:49:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Henry Ford	Matched part in Tweet(5565726126)	For  youngHenry Ford
+2015-09-05 16:49:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Henry Ford	Matched part in Tweet(4483980183)	For  Henry Ford
+2015-09-05 16:49:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Henry Ford	Matched part in Tweet(4680645870)	For  Henry Ford
+2015-09-05 16:50:01 DEBUG StringProcessStrategy:103 - @@@Place Name:Hickman	Matched part in Tweet(4804057162)	For  clbettssickman
+2015-09-05 16:50:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Huntington Library	Matched part in Tweet(5714197351)	For  Huntington library
+2015-09-05 16:50:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Ion	Matched part in Tweet(5743412068)	For Ion Ghitulescu Lume Lume httpbitlyNSS
+2015-09-05 16:50:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Jamacho	Matched part in Tweet(5941646215)	For ingridcamacho woo hoo You are now one of us 
+2015-09-05 16:50:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Jay Run	Matched part in Tweet(6052251096)	For  Today Run
+2015-09-05 16:51:01 DEBUG StringProcessStrategy:103 - @@@Place Name:John Day	Matched part in Tweet(4112226963)	For  makes John Da
+2015-09-05 16:51:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Johnstown	Matched part in Tweet(5896575135)	For  Johnstown
+2015-09-05 16:51:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Johnstown	Matched part in Tweet(5696600071)	For  Johnstown
+2015-09-05 16:51:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Kittery	Matched part in Tweet(2207360650)	For  Olive Kitter
+2015-09-05 16:51:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Kittery	Matched part in Tweet(4433776530)	For  jittery
+2015-09-05 16:51:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Lakes	Matched part in Tweet(2399992537)	For  Lakes
+2015-09-05 16:51:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Lakes	Matched part in Tweet(4040309372)	For Lakeshorecom Lakefront with Guest House Incline Village bd Kerry Donovan Chase Internat httpbitlyPqs reno
+2015-09-05 16:51:51 DEBUG StringProcessStrategy:103 - @@@Place Name:Lake Travis	Matched part in Tweet(5444523952)	For  Lake Travis
+2015-09-05 16:51:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(4711689361)	For  FastLane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(5877405000)	For  Lane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(5807125837)	For AnnieLane My braincells are taking a beating today Theyre basically being asked to run the gauntlet after years of couchpotato behavior
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(5653136535)	For  Lane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(4136224747)	For  Lane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(4121637538)	For  Lane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(3997396995)	For  Lane
+2015-09-05 16:51:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Lane	Matched part in Tweet(4135435179)	For  Lane
+2015-09-05 16:52:02 DEBUG StringProcessStrategy:103 - @@@Place Name:Leeland	Matched part in Tweet(6015199683)	For  Freeland
+2015-09-05 16:52:02 DEBUG StringProcessStrategy:103 - @@@Place Name:Leeland	Matched part in Tweet(5539059303)	For leeland The fish Dolphins arent fish lol
+2015-09-05 16:52:10 DEBUG StringProcessStrategy:103 - @@@Place Name:Lincoln Hospital	Matched part in Tweet(4143942066)	For  Lincoln Hospital
+2015-09-05 16:52:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Linesville	Matched part in Tweet(6458601238)	For Gainesville Familys Home Gets An Extreme Makeover WOKV to the Rock n Roll Hall of Fame in O httpbitlyNlzBI 
+2015-09-05 16:52:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Linesville	Matched part in Tweet(6406389232)	For  Gainesville
+2015-09-05 16:52:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Linesville	Matched part in Tweet(1573012251)	For  Gainesville
+2015-09-05 16:52:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Linesville	Matched part in Tweet(4398842104)	For Gainesville Area Aids Program distrubuted toilitries laudry soap and other staples to forty five people this morning
+2015-09-05 16:52:12 DEBUG StringProcessStrategy:103 - @@@Place Name:Liscomb	Matched part in Tweet(6176927709)	For  discomb
+2015-09-05 16:52:27 DEBUG StringProcessStrategy:103 - @@@Place Name:Lockney	Matched part in Tweet(5326880450)	For  Hockney
+2015-09-05 16:52:33 DEBUG StringProcessStrategy:103 - @@@Place Name:Long School	Matched part in Tweet(4116795680)	For  long School
+2015-09-05 16:52:37 DEBUG StringProcessStrategy:103 - @@@Place Name:Loss Creek	Matched part in Tweet(5533091593)	For  Cross Creek
+2015-09-05 16:52:37 DEBUG StringProcessStrategy:103 - @@@Place Name:Lota	Matched part in Tweet(5784692586)	For  Lota
+2015-09-05 16:52:45 DEBUG StringProcessStrategy:103 - @@@Place Name:Lucky	Matched part in Tweet(4796365250)	For  Lucky
+2015-09-05 16:52:45 DEBUG StringProcessStrategy:103 - @@@Place Name:Lucky	Matched part in Tweet(6241405763)	For Lucky Says Bookmaker Refunds Tennis Bets On Murray Wagers on Andy Murray will be refunded at httpbitlyptw luckystreaklive fb
+2015-09-05 16:52:45 DEBUG StringProcessStrategy:103 - @@@Place Name:Lucky	Matched part in Tweet(4083942417)	For  Lucky
+2015-09-05 16:52:45 DEBUG StringProcessStrategy:103 - @@@Place Name:Lucky	Matched part in Tweet(4140551080)	For LuckyGabi I just fanned you on FBcute stuff My fan page is httptinyurlcommpxuj I would love for you to be a fan too 
+2015-09-05 16:52:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Mackey	Matched part in Tweet(3296484350)	For  Mackey
+2015-09-05 16:52:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Mackey	Matched part in Tweet(3996273819)	For RoMackey YESSSSSS youre tweeting
+2015-09-05 16:52:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Magnolia	Matched part in Tweet(6131092947)	For  Magnolia
+2015-09-05 16:52:52 DEBUG StringProcessStrategy:103 - @@@Place Name:Magnolia	Matched part in Tweet(5565435197)	For  magnolia
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Magnolia	Matched part in Tweet(5841626219)	For  Magnolia
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Magnolia	Matched part in Tweet(6004550545)	For  Magnolia
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Magnolia	Matched part in Tweet(4117533849)	For  Magnolia
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Maguire	Matched part in Tweet(1600678212)	For themaguire congrats on dat upcoming graduation too yo
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Maguire	Matched part in Tweet(4398737838)	For  Maguire
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Mail Box	Matched part in Tweet(5222055323)	For Mail Boxes N MoreMailbox Rentals Hour Access httpbitlyqFZtr 
+2015-09-05 16:52:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Mail Box	Matched part in Tweet(4053402062)	For  Email Box
+2015-09-05 16:52:59 DEBUG StringProcessStrategy:103 - @@@Place Name:Maravilla	Matched part in Tweet(5711454937)	For ajmaravilla oh and buy the cheapest clay possible at stores all clay is made by the same manufacturerjust undergoes branding markup
+2015-09-05 16:52:59 DEBUG StringProcessStrategy:103 - @@@Place Name:Maravilla	Matched part in Tweet(5711294374)	For ajmaravilla technically u should polish it then wax make sure you keep the paint surface only a little wet vs soaking when you clay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5206237964)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6035353925)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5694134362)	For May sell other stuff on ebay because my closet is packed
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3114694279)	For Mayerinated lttle help would be nicelol
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5682540397)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5228125902)	For Mayfair Hotel Rooftop CABANA ONE THURSDAYS httptinyurlcomylorvo Dade events FL Florida Miami nightlife us
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5564655593)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5700990434)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1848700240)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6281917288)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3062936056)	For  BeBackLaterMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5903424392)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5879967171)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5535537214)	For Maybe its time for miracles cause I aint giving up on love No I aint giving up on us
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5621450102)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3650005843)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5878069895)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5690995717)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5389776108)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6259923253)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5842188999)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5451439899)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5062733229)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5386975457)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4995373400)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1670639230)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5325198117)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1871283628)	For  USMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5780192335)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5443499496)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5682015507)	For Mayaartgallery Thanks for following us
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6011208564)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5608697055)	For AndrewMayne So many are jealous of my ability to stand next toVeronica and feliciaday and get my picture taken
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4668542603)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5830296571)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6081254782)	For May everyone have a blessed Thanksgiving My house is filling up with gkidlets so computer time will be very limited Happy times tho
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5808597350)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5573759897)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5672324247)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5745204746)	For May this inspire you to always choose to do the right thing httppingfmgmDt
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4024654131)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5236709953)	For Maybe its my ears but if youre not paying close enough attention youd think Editors and Interpol are the same band
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5821611948)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5747067570)	For  PacquiaoMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5696932252)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5564022498)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5756456917)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5658112474)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5568656860)	For MayaMichelleRew Hey gorgeous GoGo BlushWynn in LV is having a GoGoCup on Tuesday nite Can you attend httptinyurlcomyfhblg
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1823579036)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6169463224)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5658199472)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5665409807)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5904131345)	For MeloMayne Would love U come by Blue Door this SaturdayIts Ladies NightCome get urself a Pink Kiss httppicgdbdea
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5608675942)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4605845191)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5028632457)	For Mayor McCheese is an elitist How can he rule over a town full of people that eats burgers when he himself is a Burger Stop Burger Genocide
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1826975177)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5499115547)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5814719593)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1334577931)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6042812288)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4710968509)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1763328580)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5620940783)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4985982625)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5603507369)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(2614388936)	For Mayor Menino becomes the longest serving mayor in Boston history today years Quite an accomplishment A very effective man
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5206216982)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5726267046)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5798418545)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5348546095)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5801586965)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5665807739)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5459397566)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5417547542)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(2654539108)	For Maybe Ill sew a catsuit today
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4897531355)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6219148085)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3725975288)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4871194000)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4496570161)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5457307123)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4717877282)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1724299979)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5708078908)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5693044012)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1666973847)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5869054615)	For MayUhl mistyrice it makes it more valuable to sell on eBay or return if necessary Come onget with the program
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5609292863)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5685175543)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1891883032)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5860429640)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5557927316)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5493709052)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5750885283)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6372559091)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5466006775)	For  MoniqueMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(2828663746)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5186636067)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1847864368)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4709762862)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5698256447)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4738131469)	For  httpbitlyZsnBMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5590521819)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6454348846)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4824092927)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5705530122)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6010767163)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5732586323)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5239204426)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5225845257)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(1447360473)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5802852409)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5778236717)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(6126442354)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5415241549)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5940113193)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4709330067)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5540438603)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5560522063)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4743322295)	For Maybe I shouldnt have gotten into bed with those crazy bloodsuckers PamatFangtasia has her fangs out
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5588959576)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4470349490)	For Maybe if my work computer wasnt older than me I might be able to do my job
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(5969070197)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4091300239)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4087417899)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4106911617)	For Mayweather makes weight pays penalty httpsharesgBjY
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4022622949)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4167306970)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4332179401)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4328127961)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4333228008)	For Maybe they would realize we were all just humansthat we were all equal computer nerd football player the same Via donmilleris
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4090628686)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4013597582)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4301047754)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4117589710)	For Mayweather domination
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4094340874)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3354976155)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4159022332)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4310928306)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4021494877)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(3973170758)	For Maybe not BradyOwens play tomorrow RT SteveGarufi brandonblaine three buddies philladden timbe brandonblaine won this week cgleague
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4117801284)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4117296616)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4114301659)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4030702235)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4400040751)	For Maybe they are ornery because theres no more butter in their pockets I know I get snotty when I run out of pocket butter
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4089692654)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4003717061)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4140202657)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4111620717)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4117980276)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4345472140)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4107869108)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4171932992)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4119695226)	For  MarkMay
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4118607181)	For Mayweather vs Pacquiao is shaping up to be a great fight
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4118699900)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4025769697)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4088890128)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4118063443)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4097460394)	For  May
+2015-09-05 16:53:11 DEBUG StringProcessStrategy:103 - @@@Place Name:May	Matched part in Tweet(4079548445)	For  May
+2015-09-05 16:53:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Mena	Matched part in Tweet(1848700240)	For Menashas Community Clothes Closet will be featured on the Oprah show May pm on WFRV Channel See their twitter at ClothesCloset
+2015-09-05 16:53:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Mena	Matched part in Tweet(5213219395)	For PastMena Hi Dianna yes Im blessed to have success fun online Happy to chat with you might need more space tho Lets connect
+2015-09-05 16:53:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Mena	Matched part in Tweet(5535068810)	For OnlyEricaMena hApPY BdAy BaBeS
+2015-09-05 16:53:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Mena	Matched part in Tweet(5392865837)	For Menasha High celebrates Day of the Dead Appleton Post Crescent httpwwwhurlwsthx
+2015-09-05 16:53:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Mena	Matched part in Tweet(6318913507)	For MenaMonroe lol come up to the studio tomorrow
+2015-09-05 16:53:27 DEBUG StringProcessStrategy:103 - @@@Place Name:Merritt	Matched part in Tweet(3857606362)	For  httpwwwshaymerritt
+2015-09-05 16:53:41 DEBUG StringProcessStrategy:103 - @@@Place Name:Mill Town	Matched part in Tweet(3270570647)	For  McCaskill Town
+2015-09-05 16:53:42 DEBUG StringProcessStrategy:103 - @@@Place Name:Mill Town	Matched part in Tweet(6115870994)	For Chestnuthill Township buys conservation easements on three properties httpbitlypAQgE
+2015-09-05 16:53:54 DEBUG StringProcessStrategy:103 - @@@Place Name:Montgomery Cove	Matched part in Tweet(4333193048)	For The Montgomery County shelter closing is in Conroe TX httpbitlyvQUX
+2015-09-05 16:53:56 DEBUG StringProcessStrategy:103 - @@@Place Name:Moon Park	Matched part in Tweet(5185783269)	For  Moon Park
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(2881345212)	For  hey Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5808476729)	For  httpbitlyDsilC Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(3848813042)	For  TanyaMorgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5355592203)	For  and Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(2004239282)	For  with Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5044594991)	For  httpbitlyJCdK Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(6402855224)	For RyliMorgan Not a dream
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5991481665)	For  Thanks Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5029118265)	For  from Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(4416969914)	For  Morgans
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(3605022939)	For  in Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(6277774000)	For  Tracy Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5012112049)	For MorganKradison Theyve got a while to get back to good healthso hopefully in a month theyll all be stronger than ever
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5860752770)	For  Captain Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(4574663280)	For Queen Morgana leFaySV who was KingArthurSVs sister and a potent wicked enchantress
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5502417203)	For  JP Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(2756037715)	For  on Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(6124478788)	For  JP Morgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(6016470242)	For TracyMorganAdvice Nothings Impossible Except for Dinosaurs
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5263511350)	For  JPMorgan
+2015-09-05 16:53:57 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(5407671078)	For LesliMorgan oh me too
+2015-09-05 16:53:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(3998660004)	For MorganElise Yuuuoohhhhhhh or however u spell it lol httptinyurlcomonnct
+2015-09-05 16:53:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(4304961842)	For AshMorganInkd oh no prob funny lol
+2015-09-05 16:53:58 DEBUG StringProcessStrategy:103 - @@@Place Name:Morgans	Matched part in Tweet(4423929064)	For  kill Morgan
+2015-09-05 16:54:30 DEBUG StringProcessStrategy:103 - @@@Place Name:New Dixon	Matched part in Tweet(5890459008)	For News Dixons fate in jurors hands httpbitlyUSY baltimore
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(1288586684)	For  Nichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(5438506317)	For  RickNichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(5069366971)	For  Nichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(5592027350)	For  Nichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(5677772405)	For  Nichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(6095793754)	For  Nichola
+2015-09-05 16:54:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Nichola	Matched part in Tweet(4077721960)	For  RachelNichol
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5616619209)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5449575645)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5831136217)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4665785707)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5499779885)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5551434736)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5188347584)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5625310958)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4996559888)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3344415820)	For  WWEFridayNigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5935043941)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6229543536)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5839494823)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3209559120)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(2002494490)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5160198460)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4684856777)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5466337055)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6255998840)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5829821230)	For NightJockRider doing good herenot as good as u thoughha
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5550125727)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4498802984)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5929447643)	For Night at the Museum at The Byrd tonight with Anna How childish Love it
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5664789391)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4154256071)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4916693230)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5574355003)	For Night Shift s your chance to help build a stronger SLAG Every Monday in NovDec from pm you can volunteer your time at the SLAG office
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4892103956)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4693961404)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5491130131)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5564330080)	For  BlushNigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5712172608)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4514684915)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6453608245)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4872430247)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6022749101)	For NightRiderAZ My familia comes into Denver this evening I am excited Turkey day Hope it goes well down in AZ Your jewelry is SICK UFC
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3893079744)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5904131345)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5717078615)	For MyNightmareInterviewsWithGoogleGOOGhttpbitlyvwDgG
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5800582012)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5351281784)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6392412647)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3099166277)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(1831730392)	For Night falls Ready to watch a movie Readying the library for painting over next weekend Corn Moon is the color A deep yellow
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5981783426)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5876007757)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5611928413)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5698206671)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5775050481)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5850642742)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5481345791)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5624320462)	For  TallyNigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5696371917)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6140840346)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(1666973847)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(2412170153)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4559053170)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5971718232)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3117414418)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3917997037)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5977985377)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5026990408)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5325557436)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5263588105)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5250684866)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(1621841665)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6262179799)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5925250552)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6011150510)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5875591516)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5526687217)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5096508273)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5720798925)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6306594444)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5493674195)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3617759464)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5070425474)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5396247379)	For Nightlife in Panama City at Frommers httpsharesaAgdI
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6281930607)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(5810881763)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(6374000943)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4092977561)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4090147094)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4092132049)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3999635525)	For Nightmare cant sleep 
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4307986129)	For  Nigh
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4141286883)	For Night
+2015-09-05 16:54:39 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4387258370)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4129118324)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4093049211)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4138698156)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4033846257)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4043952191)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4094577697)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3980438465)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4295961954)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4141841467)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4120339010)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4385842040)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4079028246)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4007708477)	For Nightmare Before Christmas Jenga YES httpbitlydUGfB
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4387934513)	For Night D
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4022246931)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4399042018)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4073843291)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4132804909)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(3985880009)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4022692340)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4042796338)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4150563715)	For  Nigh
+2015-09-05 16:54:40 DEBUG StringProcessStrategy:103 - @@@Place Name:Nigh	Matched part in Tweet(4072252214)	For  Nigh
+2015-09-05 16:55:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Old Blue	Matched part in Tweet(2136538271)	For  Wild Blue
+2015-09-05 16:55:37 DEBUG StringProcessStrategy:103 - @@@Place Name:Pauls	Matched part in Tweet(5187041256)	For  Pauls
+2015-09-05 16:55:37 DEBUG StringProcessStrategy:103 - @@@Place Name:Pauls	Matched part in Tweet(5806308682)	For  Pauls
+2015-09-05 16:55:50 DEBUG StringProcessStrategy:103 - @@@Place Name:Pharmacy Building	Matched part in Tweet(5904833704)	For  Pharmacy Building
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(5975036327)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(5503601393)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(6303712044)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(4840478109)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(5434018287)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(4329762770)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(4413606363)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(4417909702)	For  Plain
+2015-09-05 16:56:04 DEBUG StringProcessStrategy:103 - @@@Place Name:Plain	Matched part in Tweet(4110435112)	For JustPlainBill USC game is on right now
+2015-09-05 16:56:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Plano	Matched part in Tweet(5926073681)	For  Plano
+2015-09-05 16:56:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Plano	Matched part in Tweet(6213112243)	For  Plano
+2015-09-05 16:56:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Plano	Matched part in Tweet(5898487279)	For Planobased Cinemark opens more techadvanced theaters httpbitlyaPow
+2015-09-05 16:56:19 DEBUG StringProcessStrategy:103 - @@@Place Name:Port Discovery	Matched part in Tweet(4006289053)	For RT PortDiscovery AccessABILITY is our visiting exhibit that opens THIS WKEND Write your name in braille try a handpedaled bike more
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5663864136)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5720384603)	For  Premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(3561411760)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(3391464743)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5179396783)	For  Premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5411035717)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(2392019794)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5829713546)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5841103656)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5810313228)	For  Premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5647103377)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5485031984)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5689832037)	For Premiere Vision Pluriel Shows Highlight Signs of Optimism httpbitlydvmF
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(6228521807)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5698399554)	For  Premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5801205782)	For  premier
+2015-09-05 16:56:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5580195601)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5210768814)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5408988263)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4939829701)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(3576725262)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5782266467)	For  NewMoonPremier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5996447615)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5737337043)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4476628112)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5398831169)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5830903141)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(6346428286)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4844598528)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5871588266)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5803335330)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(6133586833)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5394817679)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5076651570)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5580697875)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4475957002)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5237649695)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(6235188442)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(5815946393)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4987307162)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(3997533584)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4133976437)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4405455708)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(3994460196)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4356390386)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4057613414)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4059573627)	For  premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4159430443)	For Premieres of House and How I Met Your Mother tonight D
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4074209816)	For  wwwpremier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4040234784)	For  Premier
+2015-09-05 16:56:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Premier	Matched part in Tweet(4367582052)	For  premier
+2015-09-05 16:56:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Progreso	Matched part in Tweet(5372632899)	For ProgressiveChic AGREED I just do not get it
+2015-09-05 16:56:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Progreso	Matched part in Tweet(6065707878)	For  Daily Progres
+2015-09-05 16:56:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Progreso	Matched part in Tweet(5295872346)	For  Slow Progres
+2015-09-05 16:56:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Progreso	Matched part in Tweet(5193068754)	For Progressive United Insurance Agency httpbitlyjHD 
+2015-09-05 16:56:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Progreso	Matched part in Tweet(5435786533)	For LukeInProgress I need that tea tomorrow BAD Going on to my th hour awake its like every little movement feels like it takes a month
+2015-09-05 16:56:38 DEBUG StringProcessStrategy:103 - @@@Place Name:Ramey	Matched part in Tweet(4136689696)	For MzRamey DARKNESS EVERYBODYDARKNESS
+2015-09-05 16:56:44 DEBUG StringProcessStrategy:103 - @@@Place Name:Red Cedar	Matched part in Tweet(3830041283)	For  wiped Cedar
+2015-09-05 16:56:53 DEBUG StringProcessStrategy:103 - @@@Place Name:Revlon	Matched part in Tweet(5676994840)	For  Revlon
+2015-09-05 16:57:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Ringo	Matched part in Tweet(3765362719)	For  Ringo
+2015-09-05 16:57:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Ringo	Matched part in Tweet(6291326654)	For  Ringo
+2015-09-05 16:57:00 DEBUG StringProcessStrategy:103 - @@@Place Name:Ringo	Matched part in Tweet(3869466413)	For  Ringo
+2015-09-05 16:57:01 DEBUG StringProcessStrategy:103 - @@@Place Name:Ringo	Matched part in Tweet(5212028536)	For  Ringo
+2015-09-05 16:57:05 DEBUG StringProcessStrategy:103 - @@@Place Name:Roadhouse	Matched part in Tweet(5683301086)	For  Bubbasroadhouse
+2015-09-05 16:57:07 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(4622848998)	For  Robinson
+2015-09-05 16:57:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(6442764025)	For  SarahRobinson
+2015-09-05 16:57:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(3694030255)	For  SirKenRobinson
+2015-09-05 16:57:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(5247004490)	For  Robinson
+2015-09-05 16:57:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(4054136037)	For  Robinson
+2015-09-05 16:57:08 DEBUG StringProcessStrategy:103 - @@@Place Name:Robison	Matched part in Tweet(4095002152)	For  JaydaRobinson
+2015-09-05 16:57:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Roth	Matched part in Tweet(1574222340)	For  Roth
+2015-09-05 16:57:18 DEBUG StringProcessStrategy:103 - @@@Place Name:Roth	Matched part in Tweet(3386338524)	For  Roth
+2015-09-05 16:57:19 DEBUG StringProcessStrategy:103 - @@@Place Name:Roth	Matched part in Tweet(4122549216)	For  Roth
+2015-09-05 16:57:19 DEBUG StringProcessStrategy:103 - @@@Place Name:Roth	Matched part in Tweet(4135435179)	For  Roth
+2015-09-05 16:58:02 DEBUG StringProcessStrategy:103 - @@@Place Name:Savannah River	Matched part in Tweet(4812680508)	For  Savannah River
+2015-09-05 16:58:15 DEBUG StringProcessStrategy:103 - @@@Place Name:Sergeant	Matched part in Tweet(5613719436)	For  Sergeant
+2015-09-05 16:58:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Shephard	Matched part in Tweet(6321570165)	For  Shephard
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(3756738679)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5301332778)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5935560264)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5847771324)	For Short video Sumatra deforestation and its global warming effects httpbitlyHkjH
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5955008973)	For Shortcovers for iPhone v with nice bookshelf view httpbitlyMxljE via shortcovers
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5395276795)	For Short WFC report here httptinyurlcomyelkb WFC Flickr pics here httptinyurlcomyxzd wfc
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(6248557144)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(2717736860)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5768235794)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(2649370196)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4022338837)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(2299105507)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(2541273648)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(6012743774)	For  Short
+2015-09-05 16:58:28 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5780062759)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5698206671)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(6122808636)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(6207998598)	For Short Reynolds and Wilson Set for Celebrity Autobiography Dec performances of Eugene Packs Celebrit httpbitlycMuja
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5531224069)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5910553405)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4448301957)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5808152946)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4717908214)	For Shortyos King Of The Kounty album review httpbitlyZzU
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5584780160)	For Shorter URLs and real estate SEO Real Estate Tech Review Thirdparty vs YOURLSread more httpbitlyfdKW
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(5514907157)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4091442405)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(3964429230)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(3835295259)	For LifeInShort heh fool
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(3793232456)	For Shortwave Sessions on FM KROG P tonight Wired beats on the radio in 
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4143817652)	For  Short
+2015-09-05 16:58:29 DEBUG StringProcessStrategy:103 - @@@Place Name:Short	Matched part in Tweet(4063142431)	For  Short
+2015-09-05 16:58:45 DEBUG StringProcessStrategy:103 - @@@Place Name:Snowflake	Matched part in Tweet(6107330340)	For  Snowflake
+2015-09-05 16:58:46 DEBUG StringProcessStrategy:103 - @@@Place Name:Snowflake	Matched part in Tweet(5449954177)	For  kqsnowflake
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5509186837)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6009938832)	For Soon RT DocZola BevNETcom any review posting on Doc Zola
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5270121888)	For  TooSoo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5781240970)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5683407261)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5493505509)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6373411103)	For Soon haha Well figure out somethin
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5526259577)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5572933591)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5636538467)	For SookieBonTemps You have no idea
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(3801992288)	For Soo excited to go see All About Steve today Just wish they were showing it at Loews so I could have a snow cone ohhh well
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5576498391)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5900041316)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5642151864)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6043037979)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6089509699)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5862881188)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5603280276)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6092946709)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5440574598)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5782543518)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5841784110)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5577105948)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5501243983)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6019185898)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5524216930)	For Soooo tired
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(6372613610)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5414809556)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5830504822)	For WiiPigSooie I understand opposing the bill I dont but I am aware of other opinions but why oppose the debate
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(5778236717)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4953516700)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(3719975549)	For Sooooo nice outside
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(3999803997)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4394310970)	For Soooo cold in my bedroom left windows open that I can not force myself out of bed
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4303529347)	For Soooooooo bored
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(3707080241)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4092469307)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4342486092)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4111360751)	For  ImSoo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4088623474)	For Soooo whats up wit Delonte West Hes a trendin topic
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4088709574)	For  Soo
+2015-09-05 16:58:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Soo	Matched part in Tweet(4115793217)	For Soo is that whole killing myself thing still an option
+2015-09-05 16:58:49 DEBUG StringProcessStrategy:103 - @@@Place Name:South Bay	Matched part in Tweet(5701119869)	For  South Bay
+2015-09-05 16:58:49 DEBUG StringProcessStrategy:103 - @@@Place Name:South Bay	Matched part in Tweet(4141919323)	For  South Bay
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(4791154413)	For  Spider
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(5643362445)	For  Spider
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(5519918550)	For  Spider
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(3738826630)	For  Spider
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(5847650846)	For  Spider
+2015-09-05 16:59:06 DEBUG StringProcessStrategy:103 - @@@Place Name:Spider	Matched part in Tweet(4153023930)	For  Spider
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(5730695241)	For DanielStabile kaitlincassidy murtzjaffer stephenhampton tjfantini its just all fun and games and its twit it aint war xo
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(5730207944)	For DanielStabile lol lol
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(6318063743)	For  Stab
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(5604613698)	For  Stab
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(5792323119)	For DanielStabile wow Im missin arika a lot Im in pain ps u should give josaAcosa a rectal exam
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(6421759515)	For  Stab
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(4951746792)	For Stabbed dog back at rescue group that saved her dog lup azure center home News OCRegistercom httpbitlyIpTy
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(3850574839)	For  Stab
+2015-09-05 16:59:11 DEBUG StringProcessStrategy:103 - @@@Place Name:Stab	Matched part in Tweet(4031582395)	For  Stab
+2015-09-05 16:59:22 DEBUG StringProcessStrategy:103 - @@@Place Name:Stokely	Matched part in Tweet(4131313909)	For  Stokely
+2015-09-05 16:59:48 DEBUG StringProcessStrategy:103 - @@@Place Name:Ten Brook	Matched part in Tweet(5239453715)	For  TODAYExSen Brook
+2015-09-05 16:59:49 DEBUG StringProcessStrategy:103 - @@@Place Name:Tennessee Valley	Matched part in Tweet(5778887593)	For  Tennessee Valley
+2015-09-05 16:59:52 DEBUG StringProcessStrategy:103 - @@@Place Name:The Church of God	Matched part in Tweet(3988328572)	For  The Church of God
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(5462970076)	For  The Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(3540439827)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(4840584160)	For  The Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(5831374235)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(3826240968)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(4340681137)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(5868029592)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(4411461553)	For  the Green
+2015-09-05 16:59:53 DEBUG StringProcessStrategy:103 - @@@Place Name:The Green	Matched part in Tweet(3964532620)	For  the Green
+2015-09-05 16:59:54 DEBUG StringProcessStrategy:103 - @@@Place Name:The Horseshoe Bend	Matched part in Tweet(3316373827)	For  Service Horseshoe Bend
+2015-09-05 17:00:03 DEBUG StringProcessStrategy:103 - @@@Place Name:Tinsley	Matched part in Tweet(5305091610)	For  wTinsley
+2015-09-05 17:00:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Tram	Matched part in Tweet(6214921093)	For  Tram
+2015-09-05 17:00:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Tram	Matched part in Tweet(5333442406)	For  Tram
+2015-09-05 17:00:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Tram	Matched part in Tweet(5866474311)	For JeromeTrammel send them to me here I am looking for a good topic for mondays show that will be entertaining for my live audience
+2015-09-05 17:00:30 DEBUG StringProcessStrategy:103 - @@@Place Name:Tram	Matched part in Tweet(6102962526)	For  Tram
+2015-09-05 17:00:34 DEBUG StringProcessStrategy:103 - @@@Place Name:Triplett	Matched part in Tweet(5937821783)	For DustinTriplett That is a better story I have to admit
+2015-09-05 17:00:36 DEBUG StringProcessStrategy:103 - @@@Place Name:Trujillo	Matched part in Tweet(6183975019)	For  joshtrujillo
+2015-09-05 17:01:17 DEBUG StringProcessStrategy:103 - @@@Place Name:Wales Corner	Matched part in Tweet(4317941553)	For  Hales Corner
+2015-09-05 17:01:24 DEBUG StringProcessStrategy:103 - @@@Place Name:Washington Four	Matched part in Tweet(6081532975)	For Washington Journal has the nuttiest callers on the planet
+2015-09-05 17:01:25 DEBUG StringProcessStrategy:103 - @@@Place Name:Watch Rock	Matched part in Tweet(2464190589)	For  watch Rock
+2015-09-05 17:01:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Wellington Municipal Airport	Matched part in Tweet(5834065211)	For  at Arlington Municipal Airport
+2015-09-05 17:01:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Wellington Municipal Airport	Matched part in Tweet(5808280613)	For  at Arlington Municipal Airport
+2015-09-05 17:01:31 DEBUG StringProcessStrategy:103 - @@@Place Name:Wendel	Matched part in Tweet(3495247833)	For  Wendel
+2015-09-05 17:01:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Wendel	Matched part in Tweet(6200753600)	For  Wendel
+2015-09-05 17:01:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Werning	Matched part in Tweet(5625896688)	For  governing
+2015-09-05 17:01:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Werning	Matched part in Tweet(5756185818)	For  interning
+2015-09-05 17:01:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Werning	Matched part in Tweet(5605138749)	For  interning
+2015-09-05 17:01:32 DEBUG StringProcessStrategy:103 - @@@Place Name:Werning	Matched part in Tweet(4113244375)	For  concerning
+2015-09-05 17:02:09 DEBUG StringProcessStrategy:103 - @@@Place Name:Winch	Matched part in Tweet(6126797238)	For DrewWinchester Agh I blocked you by accident so very sorry TT
+2015-09-05 17:02:14 DEBUG StringProcessStrategy:103 - @@@Place Name:Witherspoon	Matched part in Tweet(4047111340)	For  whitherspoon
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(6381730996)	For  Worlds
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(5792458792)	For  Worlds
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(5580085056)	For WorldsThinnestBooks The Secret To Discretion by Bill Clinton Honesty by Bernard Madoff
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(3246593298)	For  Worlds
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(6045423936)	For  Worlds
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(3431094829)	For  Worlds
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(5447719606)	For Worlds largest cinema screen at Pinewood httpdiggcomuFlK
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(4080396536)	For Worlds cheapest ugliest iPhone case iPhone Atlas CNET Reviews httpbitlyoae
+2015-09-05 17:02:20 DEBUG StringProcessStrategy:103 - @@@Place Name:Worlds	Matched part in Tweet(4107352677)	For Worlds strongest vagina breaks own record lifting kilos MosNewscom httpbitlyaMzX wtfnews
+2015-09-05 17:02:26 DEBUG StringProcessStrategy:103 - @@@Place Name:Yanceys	Matched part in Tweet(5817541999)	For MrYancey OK COOL look for my call tomorow studying right now for class stay up homie
