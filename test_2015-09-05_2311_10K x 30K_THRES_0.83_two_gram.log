@@ -1,0 +1,2495 @@
+2015-09-05 22:47:06 WARN  Main:132 - Query Structure Setup Time: 63
+2015-09-05 22:47:18 DEBUG TokenProcessStrategy:168 - @@@Place Name:Adelanto	Matched part in Tweet(3881127423)	For "...Adelante ..."
+
+2015-09-05 22:47:27 DEBUG TokenProcessStrategy:168 - @@@Place Name:Alvin	Matched part in Tweet(6125640647)	For "...Alvin ..."
+
+2015-09-05 22:47:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Alvin	Matched part in Tweet(6145553059)	For "...Alvin ..."
+
+2015-09-05 22:47:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5532133149)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5365812873)	For "...Annex ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5696792857)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(6074965308)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(4435794560)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5796650737)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(6348215449)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5496626122)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(5488366699)	For "...Anne ..."
+
+2015-09-05 22:47:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Annex	Matched part in Tweet(4873065466)	For "...Anne ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(5538722390)	For "...Arthur ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(6048810746)	For "...Arthur ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(4697490799)	For "...Arthur ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Artie	Matched part in Tweet(5607444323)	For "...Artie ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(5523393045)	For "...Arthur ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(3432075858)	For "...Arthur ..."
+
+2015-09-05 22:47:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Artois	Matched part in Tweet(5730483860)	For "...Artois ..."
+
+2015-09-05 22:47:42 DEBUG TokenProcessStrategy:168 - @@@Place Name:Artie	Matched part in Tweet(5226928122)	For "...Artie ..."
+
+2015-09-05 22:47:42 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(4122108579)	For "...Arthur ..."
+
+2015-09-05 22:47:42 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(4401395478)	For "...Arthur ..."
+
+2015-09-05 22:47:42 DEBUG TokenProcessStrategy:168 - @@@Place Name:Arthur	Matched part in Tweet(4029880694)	For "...Arthur ..."
+
+2015-09-05 22:47:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bachman	Matched part in Tweet(5790007690)	For "...Bachman ..."
+
+2015-09-05 22:47:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bada	Matched part in Tweet(5848426034)	For "...Bada ..."
+
+2015-09-05 22:47:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Badger Pass	Matched part in Tweet(6020630764)	For "...Badger Pass ..."
+
+2015-09-05 22:47:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5183254640)	For "...Balloon ..."
+
+2015-09-05 22:47:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5648105838)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5626697057)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(4927629284)	For "...Ballon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5056449859)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5649681361)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5636751827)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(5056533090)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(4962366060)	For "...Balloon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(6228652710)	For "...Ballon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(4355075639)	For "...Ballon ..."
+
+2015-09-05 22:47:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ballona	Matched part in Tweet(4090952814)	For "...Balloon ..."
+
+2015-09-05 22:48:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bashan	Matched part in Tweet(3740880095)	For "...Basha ..."
+
+2015-09-05 22:48:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bethany	Matched part in Tweet(2177388373)	For "...bethany ..."
+
+2015-09-05 22:48:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bethany	Matched part in Tweet(5590872226)	For "...Bethany ..."
+
+2015-09-05 22:48:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bethany	Matched part in Tweet(5752769876)	For "...bethany ..."
+
+2015-09-05 22:48:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bethany	Matched part in Tweet(3647157894)	For "...Bethany ..."
+
+2015-09-05 22:48:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(2150386098)	For "...blackberry ..."
+
+2015-09-05 22:48:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(2150386098)	For "...blackberrys ..."
+
+2015-09-05 22:48:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5448577824)	For "...Blackberry ..."
+
+2015-09-05 22:48:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(6156011437)	For "...Blackberry ..."
+
+2015-09-05 22:48:32 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(2692014496)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(1696370874)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5658094441)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(6292245426)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5983196968)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5776273358)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(6322374726)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(4784882882)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5569537344)	For "...blackberrys ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(2071985666)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(1464885701)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(5866702954)	For "...blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(4097275045)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(4128944773)	For "...Blackberry ..."
+
+2015-09-05 22:48:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blackberry	Matched part in Tweet(4307990372)	For "...Blackberry ..."
+
+2015-09-05 22:48:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blakey	Matched part in Tweet(3518251317)	For "...Blake ..."
+
+2015-09-05 22:48:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blakey	Matched part in Tweet(5977210210)	For "...Blake ..."
+
+2015-09-05 22:48:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Blakey	Matched part in Tweet(5194003330)	For "...Blake ..."
+
+2015-09-05 22:48:44 DEBUG TokenProcessStrategy:168 - @@@Place Name:Boice	Matched part in Tweet(5489725963)	For "...Boice ..."
+
+2015-09-05 22:48:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Borland	Matched part in Tweet(5679923307)	For "...orlando ..."
+
+2015-09-05 22:48:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Borland	Matched part in Tweet(5239204426)	For "...orlando ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(6249205637)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(6245999601)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(6245999601)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(6418359935)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(5425980811)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(6212659921)	For "...Bowden ..."
+
+2015-09-05 22:48:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bowden	Matched part in Tweet(4055734742)	For "...Bowden ..."
+
+2015-09-05 22:48:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5355973570)	For "...Brad ..."
+
+2015-09-05 22:48:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5753387087)	For "...Brady ..."
+
+2015-09-05 22:48:54 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5152294512)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(3727063221)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5727024240)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5629780025)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5835030759)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5896139273)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5757720991)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5398034232)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5833579941)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5833579941)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5553015048)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(5653548940)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(6225310498)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(4335359747)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(3936708257)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(4123743110)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(4112226963)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(4142765808)	For "...Brady ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(3771008616)	For "...Brad ..."
+
+2015-09-05 22:48:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brad	Matched part in Tweet(4130173661)	For "...Brady ..."
+
+2015-09-05 22:48:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4402637735)	For "...Brave ..."
+
+2015-09-05 22:48:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(1293511278)	For "...Brave ..."
+
+2015-09-05 22:48:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(6180097621)	For "...rave ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(5410723423)	For "...rave ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(5288601973)	For "...Brave ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4081703569)	For "...rave ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4092186685)	For "...Braves ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4304822538)	For "...Braves ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4044155217)	For "...Braves ..."
+
+2015-09-05 22:48:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Brave	Matched part in Tweet(4020277716)	For "...Braves ..."
+
+2015-09-05 22:49:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:Bronson	Matched part in Tweet(4919923616)	For "...Bronson ..."
+
+2015-09-05 22:49:17 DEBUG TokenProcessStrategy:168 - @@@Place Name:Burrel	Matched part in Tweet(4309979889)	For "...Burrell ..."
+
+2015-09-05 22:49:43 DEBUG TokenProcessStrategy:168 - @@@Place Name:Castille	Matched part in Tweet(4296389341)	For "...Castillo ..."
+
+2015-09-05 22:50:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Cherry	Matched part in Tweet(4916693230)	For "...Cherry ..."
+
+2015-09-05 22:50:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Cherry	Matched part in Tweet(5515017699)	For "...Cherry ..."
+
+2015-09-05 22:50:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Cherry	Matched part in Tweet(5533895804)	For "...Cherry ..."
+
+2015-09-05 22:50:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Cherry	Matched part in Tweet(4046313275)	For "...Cherry ..."
+
+2015-09-05 22:50:01 DEBUG TokenProcessStrategy:168 - @@@Place Name:Cherry	Matched part in Tweet(4116168734)	For "...Cherry ..."
+
+2015-09-05 22:50:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:Chevron	Matched part in Tweet(3997664369)	For "...Chevron ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(5851916428)	For "...Clea ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(5850003907)	For "...Clea ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(5839273321)	For "...Clea ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(6281697143)	For "...Clea ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(6179720667)	For "...Clear ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(6181321507)	For "...Clear ..."
+
+2015-09-05 22:50:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(5294054291)	For "...Clear ..."
+
+2015-09-05 22:50:24 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(4052670886)	For "...Clear ..."
+
+2015-09-05 22:50:24 DEBUG TokenProcessStrategy:168 - @@@Place Name:Clear	Matched part in Tweet(4125865411)	For "...Clear ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5508634027)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5590959022)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5188489305)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(6250433998)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5683507117)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5988272611)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(6215998693)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(4920333702)	For "...Code ..."
+
+2015-09-05 22:50:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(5890552097)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(6116162095)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(6023375701)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(6023375701)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(4376915745)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(4122944001)	For "...Code ..."
+
+2015-09-05 22:50:29 DEBUG TokenProcessStrategy:168 - @@@Place Name:Coden	Matched part in Tweet(4029072277)	For "...Code ..."
+
+2015-09-05 22:50:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5578080519)	For "...promise ..."
+
+2015-09-05 22:50:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5828361229)	For "...promise ..."
+
+2015-09-05 22:50:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5663131350)	For "...promise ..."
+
+2015-09-05 22:50:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5207732976)	For "...promise ..."
+
+2015-09-05 22:50:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5207732976)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5611890214)	For "...compromise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(6113567146)	For "...compromise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5670432098)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(6375981275)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(6105013273)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(2712266853)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5566975829)	For "...compromise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(5963092720)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(6212073494)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(4083433772)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(4376155114)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(3775744359)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(4085017252)	For "...promise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(4000489300)	For "...compromise ..."
+
+2015-09-05 22:50:37 DEBUG TokenProcessStrategy:168 - @@@Place Name:Compromise	Matched part in Tweet(4389700843)	For "...promise ..."
+
+2015-09-05 22:50:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Crampton	Matched part in Tweet(4840712264)	For "...Frampton ..."
+
+2015-09-05 22:51:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(5848956349)	For "...Harrington ..."
+
+2015-09-05 22:51:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(3875718699)	For "...varrington ..."
+
+2015-09-05 22:51:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(5344605824)	For "...arrington ..."
+
+2015-09-05 22:51:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(3678396613)	For "...Harrington ..."
+
+2015-09-05 22:51:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(5355709252)	For "...arrington ..."
+
+2015-09-05 22:51:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Darrington	Matched part in Tweet(4037020936)	For "...Barrington ..."
+
+2015-09-05 22:51:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Davie	Matched part in Tweet(5780405922)	For "...Davies ..."
+
+2015-09-05 22:51:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Davie	Matched part in Tweet(4842543828)	For "...Davies ..."
+
+2015-09-05 22:51:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Decota	Matched part in Tweet(2626405117)	For "...Decotta ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(5690839024)	For "...Dennis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(5980661104)	For "...Dennis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(6193783941)	For "...Dennis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(5423906777)	For "...Dennis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(6164950994)	For "...Denis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(2828663746)	For "...Dennis ..."
+
+2015-09-05 22:51:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dennis	Matched part in Tweet(4327931719)	For "...Denis ..."
+
+2015-09-05 22:51:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4843348946)	For "...Donald ..."
+
+2015-09-05 22:51:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5875578526)	For "...Donald ..."
+
+2015-09-05 22:51:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dominick	Matched part in Tweet(2430539104)	For "...Dominick ..."
+
+2015-09-05 22:51:33 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5686916359)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5792924709)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5425020215)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5304836215)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(6019238656)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dominick	Matched part in Tweet(5589073700)	For "...Dominick ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(3199376921)	For "...Donalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(3846515380)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Dominick	Matched part in Tweet(5469625798)	For "...Dominick ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5511504509)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4930089620)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5823627042)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4622241258)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5526687217)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(5005952975)	For "...Donald ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4535886314)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(2932181223)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(6193942488)	For "...McDonalds ..."
+
+2015-09-05 22:51:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4125055210)	For "...Donald ..."
+
+2015-09-05 22:51:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Donalds	Matched part in Tweet(4346063866)	For "...McDonalds ..."
+
+2015-09-05 22:51:38 DEBUG TokenProcessStrategy:168 - @@@Place Name:Doyle	Matched part in Tweet(4401395478)	For "...Doyle ..."
+
+2015-09-05 22:51:38 DEBUG TokenProcessStrategy:168 - @@@Place Name:Doyle	Matched part in Tweet(4391955676)	For "...Doyle ..."
+
+2015-09-05 22:52:00 DEBUG TokenProcessStrategy:168 - @@@Place Name:Elana	Matched part in Tweet(3283524410)	For "...Elan ..."
+
+2015-09-05 22:52:00 DEBUG TokenProcessStrategy:168 - @@@Place Name:Elana	Matched part in Tweet(4072713016)	For "...Elan ..."
+
+2015-09-05 22:52:02 DEBUG TokenProcessStrategy:168 - @@@Place Name:Elevation	Matched part in Tweet(4150810143)	For "...elevation ..."
+
+2015-09-05 22:52:08 DEBUG TokenProcessStrategy:168 - @@@Place Name:Emeryville	Matched part in Tweet(4133402095)	For "...Emeryville ..."
+
+2015-09-05 22:52:08 DEBUG TokenProcessStrategy:168 - @@@Place Name:Emeryville	Matched part in Tweet(3997961805)	For "...emeryville ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5095085634)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5095085634)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5624787678)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1592703334)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4590075656)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5550505592)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3310040164)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5345503675)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5894140679)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3266621539)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6331763959)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5465091345)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5295057790)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5872672371)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5523374069)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6017393978)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5183254640)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5183254640)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5964815049)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5579090419)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5516559804)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6010067747)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5638112890)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5161205831)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4317061873)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5579360003)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5532133149)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4076188336)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4087653064)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5867808426)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5831880079)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4815668759)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5749890815)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5955257752)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5699053698)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2002494490)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4871537317)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3916396642)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6259194338)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5412823080)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5408072044)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5811443630)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6167515058)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5775910866)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5686747221)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6020479937)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4424416422)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5901061213)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5290505985)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5356152601)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5840777180)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6050693868)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6364356953)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5862111282)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5216076537)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4010679011)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5683629059)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5506593433)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5514077135)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1827949683)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5153424710)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6385436324)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5907212353)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1405565841)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5004933659)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5004933659)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5656417486)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5848766506)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5664462573)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4834419610)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5458981791)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5654506055)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4969719324)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5655757021)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4931817285)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5087291305)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5903468680)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5562498656)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5127508036)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6162485389)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5413136657)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4794490045)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5662161881)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5470342435)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5982720639)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5491031564)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5628943230)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5714158001)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5770449367)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5928750350)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5918470554)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5962018186)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5808342127)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5284730458)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3383797625)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5629784850)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4423013411)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5265477220)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6007751832)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6007751832)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4790739162)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5939334092)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5218934746)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5519007104)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5672966247)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5231966367)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5523669321)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6254075728)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3139294157)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5384649388)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5670546278)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5986825872)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5049071765)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5810109928)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5640496107)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3861465573)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5756456917)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3638742787)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5561460203)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6239362674)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4955849059)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5469492433)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5916854766)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6352760876)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5932693638)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5525779170)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4891042899)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5281481879)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6101345171)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5483161679)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3840499368)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6212637724)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6283754526)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5608675942)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5531446310)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6277853291)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5581316059)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5651923988)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4083139956)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5680067884)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5630148803)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5439328714)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5947183284)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4449721249)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5279634355)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5344335333)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4477885656)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5993721466)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6141091106)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5550387084)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6157554072)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5383649547)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6150984308)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5728436884)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5560046459)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5925514879)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2678089383)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5949410029)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5950137830)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4822321575)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6195327403)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6171613551)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2189170914)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5658895967)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6035160314)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5926139187)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2862954993)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5103155699)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4463015164)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4463015164)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3985422721)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5405930727)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5914971676)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6243089920)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5379115321)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5379115321)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3849465052)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5487729726)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5871213847)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5743623689)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5582231020)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6192704728)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3846542685)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6040792234)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5637088721)	For "...stilll ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2690532954)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5778593034)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5747149173)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5878315670)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5262150748)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5645976147)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5296940023)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4297768767)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4982665038)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5687535021)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1297369742)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5098534437)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4738230991)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6190401549)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5955763829)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5037508370)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5609266827)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5247965587)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5490850682)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3868402762)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5017662383)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5581035663)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2405233620)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5551368555)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5370652260)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3363348377)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5681138262)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5184582898)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5180222181)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5954523002)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5171588237)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2488977868)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5860429640)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5757220172)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5990150777)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2524579141)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5386548154)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5375300895)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5088536817)	For "...stilllllll ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4974030726)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4715151117)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5392833151)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5604738901)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5571318667)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5827091582)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5858252086)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3432216518)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2091591595)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5641413118)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5667958976)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2786942517)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5523360843)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5636139815)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5838571183)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4892379849)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5958103310)	For "...still ..."
+
+2015-09-05 22:52:13 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6127901255)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5483666193)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5631373982)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5553775157)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5661029001)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5701852514)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2183204480)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5044937428)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5068016710)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6313405254)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5246512015)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5764414062)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5835210895)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6166662066)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6166662066)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5589370351)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4860682877)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5517938974)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1337763828)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5563014589)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5426430474)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6009299454)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6221257601)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5423426793)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5468763390)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5462523558)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5646574469)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5735521400)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5241145488)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5375100462)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5752769876)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5958236333)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5997488880)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5590300261)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5067511540)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5027730298)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(6244853859)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5172171769)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4304670025)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5620001356)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5785680221)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(1871074361)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(5914978310)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3822266857)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4361465647)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4014372142)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4401100052)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4096277122)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4057629143)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4300628978)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4154274436)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4172748201)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4319737127)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3857396268)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4164751238)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(2544709112)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3985541087)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4412349945)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4163121622)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4098932835)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4157070441)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3777911597)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4111804844)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4082676872)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4387242949)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4054225967)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4047931172)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4350338079)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3981492434)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3989081890)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4336244955)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4177898450)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4178114496)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4097646955)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4023785478)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4003142882)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4010331357)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4167250606)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3926635534)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4087883428)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3962811580)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4036462001)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3870010155)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3597472562)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4165856382)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4114192253)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4114192253)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4173753601)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4002668050)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3950899659)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4174860765)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4048052610)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4059173702)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4314558898)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4337492421)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4350742589)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4096807021)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3981203075)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3996272530)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3996365140)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4100118421)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4126133021)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3821150879)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4068877238)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4143423154)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4349998851)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4109714168)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3882142344)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3882142344)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4149222860)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4310183406)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3830163619)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4402290781)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4154969976)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4330037560)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4047889209)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4397903144)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4099766803)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4087728648)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4320576415)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4113586741)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4108903899)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4051025178)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4326039420)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3980550907)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4115793217)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3696711511)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4176182660)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4135099858)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3988923923)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4343665817)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4107869108)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3731859093)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4089521023)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3983765036)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4049467115)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3795819576)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3795819576)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4094572192)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4149866351)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4123866353)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4430309268)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4385861556)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3990525285)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4310487794)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4033921897)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3982759920)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3990494404)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4048267755)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4357082235)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4018823791)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4078226857)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4072731628)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4050714811)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4090266422)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3922698650)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4098245676)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4318333425)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3925947401)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(3973021284)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4097460394)	For "...still ..."
+
+2015-09-05 22:52:14 DEBUG TokenProcessStrategy:168 - @@@Place Name:Estill	Matched part in Tweet(4057538071)	For "...still ..."
+
+2015-09-05 22:52:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Foltz	Matched part in Tweet(3845060475)	For "...Foltz ..."
+
+2015-09-05 22:52:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Forbes	Matched part in Tweet(5749482817)	For "...Forbes ..."
+
+2015-09-05 22:52:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Forbes	Matched part in Tweet(5897106421)	For "...Forbes ..."
+
+2015-09-05 22:52:41 DEBUG TokenProcessStrategy:168 - @@@Place Name:Forbes	Matched part in Tweet(6276924174)	For "...Forbes ..."
+
+2015-09-05 22:53:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:Gassett	Matched part in Tweet(5639019962)	For "...Gasset ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5554562714)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5103947871)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5521583437)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5701595614)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5040776351)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5414722958)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5989793834)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5773431474)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5759691427)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5776095045)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5853853195)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5392379739)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(5789051240)	For "...Gold ..."
+
+2015-09-05 22:53:19 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(4008942018)	For "...Gold ..."
+
+2015-09-05 22:53:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(4137997328)	For "...Gold ..."
+
+2015-09-05 22:53:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(4157835265)	For "...Gold ..."
+
+2015-09-05 22:53:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(4165689606)	For "...Gold ..."
+
+2015-09-05 22:53:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Golda	Matched part in Tweet(4165689606)	For "...Gold ..."
+
+2015-09-05 22:53:27 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(2103902809)	For "...JGrahams ..."
+
+2015-09-05 22:53:27 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(3905710997)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(2804334425)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(3704211351)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(4514604224)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(5830356875)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(5624464244)	For "...Graham ..."
+
+2015-09-05 22:53:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Grahams	Matched part in Tweet(5268794383)	For "...Graham ..."
+
+2015-09-05 22:54:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Henry Ford	Matched part in Tweet(6298119000)	For "...Henry Ford ..."
+
+2015-09-05 22:54:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Henry Ford	Matched part in Tweet(6258274048)	For "...Henry Ford ..."
+
+2015-09-05 22:54:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Henry Ford	Matched part in Tweet(4483980183)	For "...Henry Ford ..."
+
+2015-09-05 22:54:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Henry Ford	Matched part in Tweet(4680645870)	For "...Henry Ford ..."
+
+2015-09-05 22:54:39 DEBUG TokenProcessStrategy:168 - @@@Place Name:Huntington Library	Matched part in Tweet(5714197351)	For "...Huntington library ..."
+
+2015-09-05 22:54:49 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ion	Matched part in Tweet(5743412068)	For "...Ion ..."
+
+2015-09-05 22:55:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Johnstown	Matched part in Tweet(5896575135)	For "...Johnstown ..."
+
+2015-09-05 22:55:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Johnstown	Matched part in Tweet(5696600071)	For "...Johnstown ..."
+
+2015-09-05 22:55:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Kittery	Matched part in Tweet(4433776530)	For "...jittery ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(3248108118)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(3145044454)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(6377427079)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4581470908)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5293813702)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(1459117695)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5444523952)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5952153793)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5369448246)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5634208722)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(2399992537)	For "...Lakes ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4574573846)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(2500055512)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4557904783)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(2040753234)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(5972823321)	For "...Lake ..."
+
+2015-09-05 22:55:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(6118705160)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(6071489439)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(3953970775)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4138810714)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4057254912)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4408811702)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4084161424)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(3940676661)	For "...Lake ..."
+
+2015-09-05 22:55:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lakes	Matched part in Tweet(4095718026)	For "...Lake ..."
+
+2015-09-05 22:55:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lake Travis	Matched part in Tweet(5444523952)	For "...Lake Travis ..."
+
+2015-09-05 22:55:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lane	Matched part in Tweet(5877405000)	For "...Lane ..."
+
+2015-09-05 22:55:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lane	Matched part in Tweet(5653136535)	For "...Lane ..."
+
+2015-09-05 22:55:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lane	Matched part in Tweet(3997396995)	For "...Lane ..."
+
+2015-09-05 22:55:55 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lane	Matched part in Tweet(4135435179)	For "...Lane ..."
+
+2015-09-05 22:56:03 DEBUG TokenProcessStrategy:168 - @@@Place Name:Leeland	Matched part in Tweet(5539059303)	For "...leeland ..."
+
+2015-09-05 22:56:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lincoln Hospital	Matched part in Tweet(4143942066)	For "...Lincoln Hospitals ..."
+
+2015-09-05 22:56:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Linesville	Matched part in Tweet(6458601238)	For "...Gainesville ..."
+
+2015-09-05 22:56:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Linesville	Matched part in Tweet(6406389232)	For "...Gainesville ..."
+
+2015-09-05 22:56:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Linesville	Matched part in Tweet(1573012251)	For "...Gainesville ..."
+
+2015-09-05 22:56:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Linesville	Matched part in Tweet(4398842104)	For "...Gainesville ..."
+
+2015-09-05 22:56:26 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lockney	Matched part in Tweet(5326880450)	For "...Hockney ..."
+
+2015-09-05 22:56:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lota	Matched part in Tweet(5784692586)	For "...Lotay ..."
+
+2015-09-05 22:56:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lota	Matched part in Tweet(4570674183)	For "...Lotta ..."
+
+2015-09-05 22:56:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lota	Matched part in Tweet(5806408907)	For "...Lotta ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(4796365250)	For "...Lucky ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(5611928413)	For "...Luck ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(6241405763)	For "...Lucky ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(3592938024)	For "...Luck ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(5272388680)	For "...Luck ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(2390133209)	For "...Luck ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(4404525565)	For "...Luck ..."
+
+2015-09-05 22:56:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Lucky	Matched part in Tweet(4083942417)	For "...Lucky ..."
+
+2015-09-05 22:56:45 DEBUG TokenProcessStrategy:168 - @@@Place Name:Mackey	Matched part in Tweet(3296484350)	For "...Mackeys ..."
+
+2015-09-05 22:56:45 DEBUG TokenProcessStrategy:168 - @@@Place Name:Mackey	Matched part in Tweet(3996273819)	For "...RoMackey ..."
+
+2015-09-05 22:56:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Magnolia	Matched part in Tweet(6131092947)	For "...Magnolias ..."
+
+2015-09-05 22:56:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Magnolia	Matched part in Tweet(5841626219)	For "...Magnolias ..."
+
+2015-09-05 22:56:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Magnolia	Matched part in Tweet(6004550545)	For "...Magnolia ..."
+
+2015-09-05 22:56:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Magnolia	Matched part in Tweet(4117533849)	For "...Magnolias ..."
+
+2015-09-05 22:56:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Maguire	Matched part in Tweet(4398737838)	For "...Maguire ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5206237964)	For "...May ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6035353925)	For "...May ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5694134362)	For "...May ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5564655593)	For "...May ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1848700240)	For "...May ..."
+
+2015-09-05 22:57:04 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5903424392)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5690995717)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5451439899)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5386975457)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1670639230)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6081254782)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5745204746)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5821611948)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5696932252)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1823579036)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6169463224)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1826975177)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1334577931)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1763328580)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5620940783)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5603507369)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5206216982)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5348546095)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5417547542)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4897531355)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6219148085)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4496570161)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4717877282)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5708078908)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1666973847)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1891883032)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6372559091)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5186636067)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4709762862)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5705530122)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(6010767163)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(1447360473)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5778236717)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5415241549)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4709330067)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(5588959576)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4091300239)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4087417899)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4094340874)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4159022332)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4117296616)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4030702235)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4089692654)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4107869108)	For "...May ..."
+
+2015-09-05 22:57:05 DEBUG TokenProcessStrategy:168 - @@@Place Name:May	Matched part in Tweet(4025769697)	For "...May ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(2881345212)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5808476729)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5355592203)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(2004239282)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5044594991)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5991481665)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5029118265)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(4416969914)	For "...Morgans ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(6277774000)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5860752770)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(4574663280)	For "...Morgana ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(5502417203)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(2756037715)	For "...Morgan ..."
+
+2015-09-05 22:57:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(6124478788)	For "...Morgan ..."
+
+2015-09-05 22:57:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Morgans	Matched part in Tweet(4423929064)	For "...Morgan ..."
+
+2015-09-05 22:57:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Mountainaire	Matched part in Tweet(3314602390)	For "...Mountaina ..."
+
+2015-09-05 22:58:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nichola	Matched part in Tweet(1288586684)	For "...Nicholas ..."
+
+2015-09-05 22:58:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nichola	Matched part in Tweet(5069366971)	For "...Nicholas ..."
+
+2015-09-05 22:58:20 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nichola	Matched part in Tweet(5592027350)	For "...Nicholas ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5831136217)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5499779885)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5188347584)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5625310958)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4996559888)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5935043941)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6229543536)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5839494823)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3209559120)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(2002494490)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5160198460)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4684856777)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5550125727)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4498802984)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5929447643)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5664789391)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4154256071)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4916693230)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5574355003)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5491130131)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5712172608)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6453608245)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4872430247)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nicollet	Matched part in Tweet(2699251277)	For "...Nicole ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3893079744)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5800582012)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5351281784)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6392412647)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3099166277)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(1831730392)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5981783426)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nicollet	Matched part in Tweet(4818298891)	For "...Nicole ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5876007757)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nicollet	Matched part in Tweet(5761060546)	For "...Nicole ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5611928413)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5698206671)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5775050481)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5481345791)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5481345791)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5696371917)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6140840346)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(1666973847)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(2412170153)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5971718232)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3117414418)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3917997037)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5977985377)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5325557436)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5263588105)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(1621841665)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6262179799)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5925250552)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6011150510)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5875591516)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5096508273)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6306594444)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5493674195)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3617759464)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nicollet	Matched part in Tweet(5668805746)	For "...Nicole ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5070425474)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6281930607)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(5810881763)	For "...Night ..."
+
+2015-09-05 22:58:21 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(6374000943)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4092977561)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4092132049)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4307986129)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4141286883)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4387258370)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4129118324)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4093049211)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nicollet	Matched part in Tweet(4501323581)	For "...Nicole ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4138698156)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4043952191)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4094577697)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4295961954)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4141841467)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4120339010)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4120339010)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4385842040)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4079028246)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4387934513)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4022246931)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4399042018)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4132804909)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(3985880009)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4022692340)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4042796338)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4150563715)	For "...Night ..."
+
+2015-09-05 22:58:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Nigh	Matched part in Tweet(4072252214)	For "...Night ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4035393306)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4690548582)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(2662554229)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5380724977)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5657127679)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5691151014)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5142467681)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(3289500744)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5641964675)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5458622608)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4377351738)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5690785705)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6376051432)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6243175609)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(3197054122)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5785165614)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5867363001)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5630924340)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(2328177960)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5130451173)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(3295479858)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6001219552)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6238933096)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6238933096)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4927111635)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6212270993)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(6212270993)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(5668533845)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4148499705)	For "...Paul ..."
+
+2015-09-05 22:59:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4009806329)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4123743110)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4096967551)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(1163778022)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4145392468)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4088890128)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4088890128)	For "...Paul ..."
+
+2015-09-05 22:59:11 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pauls	Matched part in Tweet(4024128067)	For "...Paul ..."
+
+2015-09-05 22:59:16 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pencer	Matched part in Tweet(5560971545)	For "...Pence ..."
+
+2015-09-05 22:59:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Pharmacy Building	Matched part in Tweet(5904833704)	For "...Pharmacy Building ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(5503601393)	For "...Plains ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(6303712044)	For "...Plain ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(4840478109)	For "...Plain ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6206505132)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(5434018287)	For "...Plain ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6451304822)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5148046819)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5466391540)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6200961118)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(4413606363)	For "...Plain ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plain	Matched part in Tweet(4417909702)	For "...Plains ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5672057966)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(2852468822)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5926073681)	For "...Plano ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5829375583)	For "...Plan ..."
+
+2015-09-05 22:59:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6213112243)	For "...Plano ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5560732525)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(4814408433)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(4925614198)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5719465525)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6191794071)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5630924340)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5609292863)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5661056880)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5563491006)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5566335446)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(2013702256)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(5803107003)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(4963899974)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(6254671848)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(4334915473)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plano	Matched part in Tweet(4160993783)	For "...Plan ..."
+
+2015-09-05 22:59:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plants	Matched part in Tweet(5095794501)	For "...Plant ..."
+
+2015-09-05 22:59:39 DEBUG TokenProcessStrategy:168 - @@@Place Name:Plumer	Matched part in Tweet(6443787414)	For "...Plummer ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5663864136)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5720384603)	For "...Premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(3561411760)	For "...premier ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(3391464743)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5179396783)	For "...Premier ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5411035717)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(2392019794)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5829713546)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5841103656)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5810313228)	For "...Premieres ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5647103377)	For "...premiere ..."
+
+2015-09-05 22:59:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5485031984)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5689832037)	For "...Premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(6228521807)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5698399554)	For "...Premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5801205782)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5580195601)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5210768814)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5408988263)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4939829701)	For "...Premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(3576725262)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5996447615)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5737337043)	For "...Premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4476628112)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5398831169)	For "...Premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5830903141)	For "...Premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(6346428286)	For "...Premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4844598528)	For "...Premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5871588266)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5803335330)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(6133586833)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5394817679)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5580697875)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4475957002)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(5237649695)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(6235188442)	For "...Premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4987307162)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(3997533584)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4133976437)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4405455708)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(3994460196)	For "...premier ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4059573627)	For "...premiere ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4159430443)	For "...Premieres ..."
+
+2015-09-05 22:59:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Premier	Matched part in Tweet(4040234784)	For "...Premiere ..."
+
+2015-09-05 22:59:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Progreso	Matched part in Tweet(6065707878)	For "...Progress ..."
+
+2015-09-05 22:59:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Progreso	Matched part in Tweet(5295872346)	For "...Progress ..."
+
+2015-09-05 23:00:17 DEBUG TokenProcessStrategy:168 - @@@Place Name:Revlon	Matched part in Tweet(5676994840)	For "...Revlon ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5564446448)	For "...Ring ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5275217798)	For "...Ring ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5737851036)	For "...Ring ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(3765362719)	For "...Ringo ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(6291326654)	For "...Ringo ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(6291326654)	For "...Ringo ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(3869466413)	For "...Ringo ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5551473312)	For "...Ring ..."
+
+2015-09-05 23:00:23 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5675947679)	For "...Ring ..."
+
+2015-09-05 23:00:24 DEBUG TokenProcessStrategy:168 - @@@Place Name:Ringo	Matched part in Tweet(5806561954)	For "...Ring ..."
+
+2015-09-05 23:00:36 DEBUG TokenProcessStrategy:168 - @@@Place Name:Romoland	Matched part in Tweet(5663401874)	For "...Roland ..."
+
+2015-09-05 23:00:39 DEBUG TokenProcessStrategy:168 - @@@Place Name:Roth	Matched part in Tweet(1574222340)	For "...Roth ..."
+
+2015-09-05 23:00:39 DEBUG TokenProcessStrategy:168 - @@@Place Name:Roth	Matched part in Tweet(3386338524)	For "...Roth ..."
+
+2015-09-05 23:00:40 DEBUG TokenProcessStrategy:168 - @@@Place Name:Roth	Matched part in Tweet(4135435179)	For "...Roth ..."
+
+2015-09-05 23:01:10 DEBUG TokenProcessStrategy:168 - @@@Place Name:Savannah River	Matched part in Tweet(4812680508)	For "...Savannah River ..."
+
+2015-09-05 23:01:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Sergeant	Matched part in Tweet(5613719436)	For "...Sergeant ..."
+
+2015-09-05 23:01:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Sergeant	Matched part in Tweet(5613719436)	For "...Sergeants ..."
+
+2015-09-05 23:01:30 DEBUG TokenProcessStrategy:168 - @@@Place Name:Shephard	Matched part in Tweet(6321570165)	For "...Shephard ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(3756738679)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5935560264)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5847771324)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5395276795)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5986770440)	For "...hort ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(6248557144)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(2717736860)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5768235794)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(2649370196)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(2649370196)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(2299105507)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(2541273648)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(6012743774)	For "...Shorts ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5698206671)	For "...Shorts ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(6207998598)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5531224069)	For "...Short ..."
+
+2015-09-05 23:01:34 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5910553405)	For "...Short ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(4448301957)	For "...Short ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5808152946)	For "...Short ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(5514907157)	For "...Short ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(4091442405)	For "...Shorts ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(3964429230)	For "...Short ..."
+
+2015-09-05 23:01:35 DEBUG TokenProcessStrategy:168 - @@@Place Name:Short	Matched part in Tweet(4143817652)	For "...Short ..."
+
+2015-09-05 23:01:39 DEBUG TokenProcessStrategy:168 - @@@Place Name:Silvers Lake	Matched part in Tweet(6377427079)	For "...Silver Lake ..."
+
+2015-09-05 23:01:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:Snowflake	Matched part in Tweet(6107330340)	For "...Snowflake ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5683407261)	For "...Soo ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5493505509)	For "...Soo ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5526259577)	For "...Soo ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(3801992288)	For "...Soo ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(6089509699)	For "...Sooo ..."
+
+2015-09-05 23:01:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5862881188)	For "...Sooooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5440574598)	For "...Soo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5782543518)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5841784110)	For "...Sooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5577105948)	For "...Soo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5501243983)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5524216930)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(6372613610)	For "...Sooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(5414809556)	For "...Soo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(3719975549)	For "...Sooooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(3999803997)	For "...Sooooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(4394310970)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(4303529347)	For "...Soooooooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(3707080241)	For "...Soooooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(4092469307)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(4088623474)	For "...Soooo ..."
+
+2015-09-05 23:01:52 DEBUG TokenProcessStrategy:168 - @@@Place Name:Soo	Matched part in Tweet(4115793217)	For "...Soo ..."
+
+2015-09-05 23:01:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:South Bay	Matched part in Tweet(5701119869)	For "...South Bay ..."
+
+2015-09-05 23:01:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:South Bay	Matched part in Tweet(4141919323)	For "...South Bay ..."
+
+2015-09-05 23:02:06 DEBUG TokenProcessStrategy:168 - @@@Place Name:Spider	Matched part in Tweet(5643362445)	For "...Spider ..."
+
+2015-09-05 23:02:06 DEBUG TokenProcessStrategy:168 - @@@Place Name:Spider	Matched part in Tweet(3738826630)	For "...Spider ..."
+
+2015-09-05 23:02:06 DEBUG TokenProcessStrategy:168 - @@@Place Name:Spider	Matched part in Tweet(5847650846)	For "...Spider ..."
+
+2015-09-05 23:02:12 DEBUG TokenProcessStrategy:168 - @@@Place Name:Stab	Matched part in Tweet(4031582395)	For "...Stab ..."
+
+2015-09-05 23:02:22 DEBUG TokenProcessStrategy:168 - @@@Place Name:Stokely	Matched part in Tweet(4131313909)	For "...Stokely ..."
+
+2015-09-05 23:02:47 DEBUG TokenProcessStrategy:168 - @@@Place Name:Tennessee Valley	Matched part in Tweet(5778887593)	For "...Tennessee Valley ..."
+
+2015-09-05 23:02:50 DEBUG TokenProcessStrategy:168 - @@@Place Name:The Church of God	Matched part in Tweet(3988328572)	For "...The Church of God ..."
+
+2015-09-05 23:02:51 DEBUG TokenProcessStrategy:168 - @@@Place Name:The Green	Matched part in Tweet(4840584160)	For "...The Green ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4816289260)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5554562714)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4035393306)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5523464660)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5812875392)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(6314375635)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5572933552)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5445417877)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4946917420)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5232078871)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5590429789)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5499515931)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5390969513)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5658199472)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(6195230793)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5841794778)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(3838237152)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5689506569)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4794941952)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5264838911)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5831189963)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5653062277)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(5861832203)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4996592178)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4323971532)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4085495332)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4027984633)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(3939753568)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(3476009322)	For "...Three ..."
+
+2015-09-05 23:02:56 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4079028246)	For "...Three ..."
+
+2015-09-05 23:02:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4120675507)	For "...Three ..."
+
+2015-09-05 23:02:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4087613420)	For "...Three ..."
+
+2015-09-05 23:02:57 DEBUG TokenProcessStrategy:168 - @@@Place Name:Threer	Matched part in Tweet(4359584023)	For "...Three ..."
+
+2015-09-05 23:03:00 DEBUG TokenProcessStrategy:168 - @@@Place Name:Tinsley	Matched part in Tweet(5305091610)	For "...wTinsley ..."
+
+2015-09-05 23:03:24 DEBUG TokenProcessStrategy:168 - @@@Place Name:Tram	Matched part in Tweet(5333442406)	For "...Tram ..."
+
+2015-09-05 23:03:27 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(5577576698)	For "...Triple ..."
+
+2015-09-05 23:03:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(5431436081)	For "...Triple ..."
+
+2015-09-05 23:03:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(5843908257)	For "...Triple ..."
+
+2015-09-05 23:03:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(5837202301)	For "...Triple ..."
+
+2015-09-05 23:03:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(4351657587)	For "...Triple ..."
+
+2015-09-05 23:03:28 DEBUG TokenProcessStrategy:168 - @@@Place Name:Triplett	Matched part in Tweet(4302552633)	For "...Triple ..."
+
+2015-09-05 23:04:17 DEBUG TokenProcessStrategy:168 - @@@Place Name:Wendel	Matched part in Tweet(3495247833)	For "...Wendell ..."
+
+2015-09-05 23:04:17 DEBUG TokenProcessStrategy:168 - @@@Place Name:Wendel	Matched part in Tweet(6200753600)	For "...Wendell ..."
+
+2015-09-05 23:04:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(5457771739)	For "...inch ..."
+
+2015-09-05 23:04:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(1717217287)	For "...inch ..."
+
+2015-09-05 23:04:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(6445687713)	For "...inch ..."
+
+2015-09-05 23:04:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(2465200451)	For "...inch ..."
+
+2015-09-05 23:04:48 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(5881537446)	For "...inch ..."
+
+2015-09-05 23:04:49 DEBUG TokenProcessStrategy:168 - @@@Place Name:Winch	Matched part in Tweet(3994386300)	For "...inch ..."
+
+2015-09-05 23:04:53 DEBUG TokenProcessStrategy:168 - @@@Place Name:Witherspoon	Matched part in Tweet(4047111340)	For "...whitherspoon ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(1465735177)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6055508633)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6051622581)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5638541540)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5536269349)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4867908282)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5033282857)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5642616866)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5245631526)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5372790327)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5879785914)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5664781791)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5869718579)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4719675010)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4719675010)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3257183394)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4879152338)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5659672335)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5875569828)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(2029869382)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5301651881)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5441848855)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6381730996)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5000916675)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6274050409)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5548558088)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5792458792)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5242247484)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5451820559)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5698399554)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5696662625)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5696662360)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6052276323)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5550469665)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(1886312561)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6118071913)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5480273447)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6181665787)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5735629128)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5396891409)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3544151581)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3270903527)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6255470844)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6233828539)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5442465408)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5822254274)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5042740910)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6039401555)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3472559771)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5249925642)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4939829701)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6234872578)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6234872578)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5710017758)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5627871729)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5554119633)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5509342301)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5262483734)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5388814413)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5350923356)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5263886460)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5398831169)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6274421574)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6274421574)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6316795932)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6216807285)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6346428286)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5276040548)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(1201466034)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4773128592)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(2612185617)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5844817552)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4550083997)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3246593298)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(2123252820)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6284484221)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5625393956)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6045423936)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5739602457)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5817599003)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5038345635)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5771415485)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5633693877)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5661056880)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4720415688)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5194275128)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5393331523)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6259521910)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6216660112)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6216660112)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5891208228)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6236974455)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5245244219)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5667738644)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5667738644)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4733528828)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6057735170)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3431094829)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5712181551)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5889778045)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6010457214)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6010457214)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5922563655)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5395725751)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5690908392)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6209765296)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5810798822)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5810798822)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5772300650)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5513875182)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6052251096)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5648926165)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(5447719606)	For "...Worlds ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(6291182276)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(1241302435)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4459222092)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4860854237)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4030140342)	For "...World ..."
+
+2015-09-05 23:04:58 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(2932501890)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4029231160)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4143200217)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4143200217)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4096088541)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4022183506)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4080396536)	For "...Worlds ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4309076339)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4035837498)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4356765021)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4319948329)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(2660194995)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3570561294)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4002843372)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4107352677)	For "...Worlds ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3996465832)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3815402489)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(4172750152)	For "...World ..."
+
+2015-09-05 23:04:59 DEBUG TokenProcessStrategy:168 - @@@Place Name:Worlds	Matched part in Tweet(3967340765)	For "...World ..."
+
+2015-09-05 23:05:03 DEBUG TokenProcessStrategy:168 - @@@Place Name:Yarna	Matched part in Tweet(3945349269)	For "...Yarn ..."
+
