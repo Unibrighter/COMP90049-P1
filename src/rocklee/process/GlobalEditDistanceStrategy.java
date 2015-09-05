@@ -30,6 +30,11 @@ import rocklee.units.Tweet;
 public class GlobalEditDistanceStrategy extends AbstractStrategy
 {
 
+	// this value is the minimum limit that a half-done-match can be filtered as
+	// an approximate match
+	public static final double THRESHOLD = 0.85;
+	
+	
 	// for debug and info, since log4j is thread safe, it can also be used to
 	// record the result and output
 	private static Logger log = Logger
@@ -64,12 +69,11 @@ public class GlobalEditDistanceStrategy extends AbstractStrategy
 		{
 			e.printStackTrace();
 		}
-		while (scanner.hasNextLine())// until the end of tweet file
+		while (scanner.hasNextLine())
 		{
 
 			Tweet tmpTweet = new Tweet(scanner.nextLine());
-			// System.out.println("thread deads with:" + placeName.getFullName()
-			// + " and tweet #" + tmpTweet.getTweetID());
+
 			this.dealWithOneTweet(tmpTweet);
 
 		}
@@ -97,12 +101,9 @@ public class GlobalEditDistanceStrategy extends AbstractStrategy
 
 			// found one which is over threshold
 			// TODO here is an assumption to make: the first word for a
-			// place name is a must match
+			// place name is almost a perfect match
 			if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
 			{
-				// log.info("!!!First Word Match Rate!!! " + match_rate
-				// + " for " + placeName.getFullName() + " # "
-				// + tmpTweet.getTweetID());
 				// look further to see whether the last one also match
 				match_rate = Approach.globalEditDistance(
 						placeNameTokens[placeNameTokens.length - 1],
@@ -110,10 +111,6 @@ public class GlobalEditDistanceStrategy extends AbstractStrategy
 				if (match_rate >= GlobalEditDistanceStrategy.THRESHOLD)
 				{// last element also matched,then we need check the words
 					// between the head and tail
-
-					// log.info("!!!Last Word Match Rate!!! " + match_rate
-					// + " for " + placeName.getFullName() + " # "
-					// + tmpTweet.getTweetID());
 
 					boolean matched = true;
 
@@ -143,7 +140,7 @@ public class GlobalEditDistanceStrategy extends AbstractStrategy
 								+ "\tMatched part in Tweet("
 								+ tmpTweet.getTweetID()
 								+ ")\tFor "
-								+ tmpTweet.getPartOfContent(i,
+								+ tmpTweet.getBestMatchSequenceOfContent(i,
 										placeNameTokens.length) + "\n";
 
 						log.debug(result_output);

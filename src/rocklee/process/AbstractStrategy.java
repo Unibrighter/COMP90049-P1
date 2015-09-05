@@ -19,9 +19,7 @@ import rocklee.units.Tweet;
 
 public abstract class AbstractStrategy implements Runnable
 {
-	// this value is the minimum limit that a half-done-match can be filtered as
-	// an approximate match
-	public static final double THRESHOLD = 0.9;
+
 
 	// the path for the resource is the same for every thread
 	protected static File TWEET_INPUT_FILE = null;

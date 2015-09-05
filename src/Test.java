@@ -28,11 +28,6 @@ public class Test
 	public static void main(String[] args)
 	{
 		
-		Approach.printLocalDistanceMatrix("jack lee", "i just love u jack slee u mother fucker");
-		Approach.printLocalDistanceMatrix("sonny", "pononk");
-		
-		
-		
 		// ================ initialize the query input begin ==================
 
 		File query_file = new File(args[0]);
@@ -168,7 +163,6 @@ public class Test
 		}
 		Long estimatedTime = System.currentTimeMillis() - startTime;
 		System.out.printf("\npure io time used:" + estimatedTime);
-
 	}
 
 }

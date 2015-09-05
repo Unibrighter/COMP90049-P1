@@ -55,7 +55,7 @@ public class Tweet
 		return this.TweetID;
 	}
 
-	public String getPartOfContent(int index, int length)
+	public String getBestMatchSequenceOfContent(int index, int length)
 	{
 		String result = "";
 		for (int i = 0; i < length; i++)
@@ -64,6 +64,19 @@ public class Tweet
 		}
 
 		return result;
+	}
+	
+	
+	//the aim of this method is to find the best matching part of the original test for the query
+	public String getBestMatchPartOfContent(int index_max, int aim_length)
+	{
+		int start_index=index_max-aim_length;
+		while(start_index>0&&this.fullContent.charAt(start_index)!=' ')
+			start_index--;
+		int end_index=index_max+1;
+		while(end_index<this.fullContent.length()&&this.fullContent.charAt(start_index)!=' ')
+			end_index++;
+		return this.fullContent.substring(start_index, end_index);
 	}
 
 }
