@@ -59,8 +59,16 @@ public class Main
 
 		else
 		{
-			System.out
-					.println("TokenProcessStrategy/global edit distance approach");
+			System.out.println("TokenProcessStrategy.\nNow Give a specific approach:...");
+			System.out.println("1 for global edit distance");
+			System.out.println("2 for two gram ");
+			System.out.println("3 for soundex");
+			
+			Scanner cmd=new Scanner(System.in);
+			
+			int cmd_index=cmd.nextInt();
+			TokenProcessStrategy.setApproach(cmd_index);
+			
 		}
 
 		// assign the task to the thread pool
@@ -71,15 +79,18 @@ public class Main
 			{
 
 				task = new StringProcessStrategy();
+				
 			}
 
 			else
 			{
 
 				task = new TokenProcessStrategy();
+
 			}
 
 			task.setPlaceName(query_list.remove(0));
+			
 
 			pool.execute(task);
 		}

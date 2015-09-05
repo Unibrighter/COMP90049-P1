@@ -18,13 +18,19 @@ import rocklee.units.Tweet;
 public class Approach
 {
 
+	public final static int GLOBAL_EIDT_DISTANCE=1;
+	public final static int TWO_GRAM=2;
+	public final static int SOUNDEX=3;
+	
+	
+	
 	/**
 	 * Use the global edit distance strategy to compute the match rate
 	 * 
 	 * And use word 1's length as the measurement for difference degree
 	 */
 
-	public static double globalEditDistance(String word1, String word2)
+	public static boolean globalEditDistance(String word1, String word2,double threshold)
 	{
 		double result = word1.length();
 
@@ -77,7 +83,7 @@ public class Approach
 		// we use the first word's length as measurement in case that the word
 		// is too short to give a precise judgement
 		result = (len1 - global_distance_matrix[len1][len2]) / result;
-		return result;
+		return result>=threshold;
 	}
 
 	/**
@@ -156,15 +162,8 @@ public class Approach
 		// calculate the final score
 		result = max_record / result;
 
-		if (result >= threshold)
-			strBuffer.append(t.getBestMatchPartOfContent(index_j, len1));// this
-																			// part
-																			// is
-																			// going
-																			// to
-																			// be
-																			// print
-																			// a
+		if (result >= threshold)//the strBuff is going to be passed out side of the method and printed
+			strBuffer.append(t.getBestMatchPartOfContent(index_j, len1));
 
 		return result;
 
@@ -178,42 +177,18 @@ public class Approach
 	 * 
 	 * The smaller the n-gram distance, the closer the match.
 	 */
-	public static double nGramDistance(String s0, String s1, int n)
+	public static boolean nGramDistance(String s0, String s1, int n,double threshold)
 	{
 
 		// some special rare cases
 		final int sl = s0.length();
 		final int tl = s1.length();
-
-		if (sl == 0 || tl == 0)
-		{
-			if (sl == tl)
-			{
-				return 1;
-			} else
-			{
-				return 0;
-			}
-		}
-
-		int cost = 0;
-		if (sl < n || tl < n)
-		{
-			for (int i = 0, ni = Math.min(sl, tl); i < ni; i++)
-			{
-				if (s0.charAt(i) == s1.charAt(i))
-				{
-					cost++;
-				}
-			}
-			return (double) cost / Math.max(sl, tl);
-		}
-
+		int cost=0;
 		// then comes to the common case
 		ArrayList<String> collection_1 = new ArrayList<String>();
 		ArrayList<String> collection_2 = new ArrayList<String>();
 
-		for (int i = 0; i < sl - n; i++)
+		for (int i = 0; i <= sl - n; i++)
 		{
 
 			// sub string of s1
@@ -225,7 +200,7 @@ public class Approach
 			collection_1.add(tmpSub);
 		}
 
-		for (int i = 0; i < tl - n; i++)
+		for (int i = 0; i <= tl - n; i++)
 		{
 			// sub string of s2
 			String tmpSub = s1.substring(i, i + n);
@@ -233,6 +208,8 @@ public class Approach
 			if (collection_2.contains(tmpSub))
 				continue;
 
+			else collection_2.add(tmpSub);
+			
 			if (collection_1.contains(tmpSub))
 				cost++;
 		}
@@ -240,9 +217,10 @@ public class Approach
 		// |A|+|B|-2|A¡ÉB|
 		double result = collection_1.size() + collection_2.size();
 
-		result = (result - cost * 2) / result;
+		result = cost * 2/result;
 
-		return result;
+		return result>=threshold;
+
 
 	}
 
@@ -255,13 +233,14 @@ public class Approach
 	 * Then the problem is transformed into string comparison
 	 * 
 	 * */
-	public static double soundexDistance(String word1, String word2)
+	public static boolean soundexDistance(String word1, String word2)
 	{
+		if(word1==null||word1.equals("")||word2==null||word2.equals(""))return false;
+		
 		String soundex1=digitEncodeWord(word1);
 		String soundex2=digitEncodeWord(word2);
 		
-		return soundex1.equalsIgnoreCase(soundex2)?1:0;
-		
+		return soundex1.equalsIgnoreCase(soundex2);
 		
 	}
 
@@ -324,6 +303,7 @@ public class Approach
 		}
 		
 		//remove doubles and duplicates
+		if(str_raw==null) return " ";
 		char tmpChar=str_raw[0];
 		StringBuffer strBuf=new StringBuffer("");
 		strBuf.append(tmpChar);

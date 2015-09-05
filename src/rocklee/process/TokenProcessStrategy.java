@@ -33,12 +33,34 @@ public class TokenProcessStrategy extends AbstractStrategy
 	// this value is the minimum limit that a half-done-match can be filtered as
 	// an approximate match
 	public static final double THRESHOLD = 0.85;
-	
-	
+
 	// for debug and info, since log4j is thread safe, it can also be used to
 	// record the result and output
-	private static Logger log = Logger
-			.getLogger(TokenProcessStrategy.class);
+	private static Logger log = Logger.getLogger(TokenProcessStrategy.class);
+
+	// private approach selected
+	private static int approach = Approach.GLOBAL_EIDT_DISTANCE;
+
+	public static void setApproach(int approach_index)
+	{
+		TokenProcessStrategy.approach = approach_index;
+	}
+
+	public boolean determineMatch(String str1, String str2)
+	{
+
+		switch (TokenProcessStrategy.approach)
+		{
+		case Approach.SOUNDEX:
+			return Approach.soundexDistance(str1, str2);
+		case Approach.TWO_GRAM:
+			return Approach.nGramDistance(str1, str2, 2, 0.83);
+
+		case Approach.GLOBAL_EIDT_DISTANCE:
+		default:
+			return Approach.globalEditDistance(str1, str2, THRESHOLD);
+		}
+	}
 
 	public void run()
 	{
@@ -96,19 +118,19 @@ public class TokenProcessStrategy extends AbstractStrategy
 		{
 
 			// start calculate each match rate
-			match_rate = Approach.globalEditDistance(placeNameTokens[0],
-					tweetTokens[i]);
+			// match_rate = Approach.globalEditDistance(placeNameTokens[0],
+			// tweetTokens[i]);
 
 			// found one which is over threshold
 			// TODO here is an assumption to make: the first word for a
 			// place name is almost a perfect match
-			if (match_rate >= TokenProcessStrategy.THRESHOLD)
+			if (this.determineMatch(placeNameTokens[0], tweetTokens[i]))
 			{
 				// look further to see whether the last one also match
-				match_rate = Approach.globalEditDistance(
+
+				if (this.determineMatch(
 						placeNameTokens[placeNameTokens.length - 1],
-						tweetTokens[i + placeNameTokens.length - 1]);
-				if (match_rate >= TokenProcessStrategy.THRESHOLD)
+						tweetTokens[i + placeNameTokens.length - 1]))
 				{// last element also matched,then we need check the words
 					// between the head and tail
 
@@ -117,9 +139,9 @@ public class TokenProcessStrategy extends AbstractStrategy
 					// from second to the second last
 					for (int j = 1; j < placeNameTokens.length - 1; j++)
 					{
-						match_rate = Approach.globalEditDistance(
-								placeNameTokens[j], tweetTokens[i + j]);
-						if (match_rate < TokenProcessStrategy.THRESHOLD)
+
+						if (!this.determineMatch(placeNameTokens[j],
+								tweetTokens[i + j]))
 						{
 							// some one in the middle seems to be unhappy
 							matched = false;// failed match this round
