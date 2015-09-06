@@ -35,7 +35,7 @@ public class StringProcessStrategy extends AbstractStrategy
 	
 	// this value is the minimum limit that a half-done-match can be filtered as
 	// an approximate match
-	public static final double THRESHOLD = 0.85;
+	public static final double THRESHOLD = 0.9;
 	
 
 	// for debug and info, since log4j is thread safe, it can also be used to

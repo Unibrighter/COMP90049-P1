@@ -1,0 +1,53 @@
+# COMP90049-P1
+COMP90049-P1 for Knowledge Technology at Unimelb
+Kunliang WU 684226
+===============================
+Some important info:
+1.I have compiled the project into a runnable jar with 8 threads.
+You can set the number of threads as you like in Main.java as you like 
+
+2.The average test time in my PC is 17~20 minutes for the input 10K x 30K
+
+3.Here are some details about the packages and classes
+	src
+	 |------Main.java 			(Program interact and main logic)
+	 |------rock.approach			(This package is where the algorithms are stored ,all of them are static methods under Approach Class)
+	 |------rock.process			(Two Main Strategies: StringProcessStrategy.java and TokenProcessStrategy.java)
+	 |------rock.units			(Two class to establish PlaceName and Tweet)
+
+===============================
+Third party lib used are listed here:
+log4j-1.2.17.jar
+
+I use this lib to do the out put and debug for multiple threads,
+it saves me much trouble to do the synchronizing.
+
+You can also find another .jar file in lib directory,
+this is a third party lib to make fuzzy regex match,almost like an unofficial java support for agrep.
+I gave up using this lib because I undertand so little about what the source code.
+And the documents has not been updating for years.
+
+===============================
+How to run the Program:
+1.get into the working directory
+2. > java	-jar	proj.jar	path_of_query_file	path_of_tweet_data_file		[-str]
+3.the output result is stored as test.log
+P.S:
+1.If you use -str(stands for "string").Then the program will use string process system, in other words, the 
+system treats the query and tweet both as strings rather than split them into tokens.
+
+2.If you don't use -str, then the program will ask you to specify a approach for token comparison,
+the tempory output will look like this:
+2015-09-06 22:34:08 WARN  Main:132 - Query Structure Setup Time: 70
+TokenProcessStrategy.
+Now Give a specific approach:...
+1 for global edit distance
+2 for two gram 
+3 for soundex
+
+give the proper answer and the process will start.
+
+===============================
+P.S
+1.I also attached 4 results of past tests for your reference :)
+2.I set up a github project for this ,check it here :https://github.com/Unibrighter/COMP90049-P1

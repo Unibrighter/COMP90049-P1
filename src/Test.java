@@ -15,11 +15,8 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
-import rocklee.methods.Approach;
 import rocklee.process.TokenProcessStrategy;
 import rocklee.units.PlaceName;
-import net.java.frej.*;
-import net.java.frej.fuzzy.*;
 public class Test
 {
 
@@ -28,95 +25,82 @@ public class Test
 
 	public static void main(String[] args)
 	{
-		Regex testReg=new Regex("[(spring,valley)]");
-//		testReg.setThreshold(0.85);
-		System.out.println(testReg.presentInSequence("i just got fucked in spring valleeeey super fun"));
-		
-		System.out.println(testReg.getMatchStart());
-		System.out.println(testReg.getMatchEnd());
 
-		System.out.println(testReg.getThreshold());
-		System.out.println(testReg.matchedTokenCount());
 		
-		System.out.println(testReg.getMatchResult());
-		System.out.println(testReg.getThreshold());
 		
-		System.out.println(Approach.nGramDistance("micheel","michael", 2,0.6));
-//		
-//		
-//		// ================ initialize the query input begin ==================
-//
-//		File query_file = new File(args[0]);
-//
-//		ArrayList<PlaceName> query_list = new ArrayList<PlaceName>(1000);
-//
-//		try
-//		{
-//			Scanner query_scan = new Scanner(query_file);
-//			long timeStamp_readQueryList = System.currentTimeMillis();
-//
-//			while (query_scan.hasNextLine())
-//			{
-//				query_list.add(new PlaceName(query_scan.nextLine()));
-//			}
-//			System.out.println("Query Structure Setup Time: "
-//					+ (System.currentTimeMillis() - timeStamp_readQueryList));
-//
-//			log.warn("Query Structure Setup Time: "
-//					+ (System.currentTimeMillis() - timeStamp_readQueryList));
-//
-//		} catch (FileNotFoundException e)
-//		{
-//			e.printStackTrace();
-//		}
-//
-//		// ================ initialize the query input end ==================
-//
-//		File tweet_file = new File(args[1]);
-//
-//		// build the thread pool
-//		ExecutorService pool = Executors.newFixedThreadPool(8);
-//
-//		// set the tweet input source
-//		TokenProcessStrategy.setTweetInputFile(tweet_file);
-//
-//		// do the memory map
-//		FileChannel fc = null;
-//		MappedByteBuffer byteBuffer = null;
-//		try
-//		{
-//			fc = new FileInputStream(tweet_file).getChannel();
-//			byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY, 0, fc.size());
-//			TokenProcessStrategy.setMappedByteBuffer(byteBuffer);
-//
-//		} catch (FileNotFoundException e)
-//		{
-//			e.printStackTrace();
-//		} catch (IOException e)
-//		{
-//			e.printStackTrace();
-//		}
-//
-//		// assign the task to the thread pool
-//		while (!query_list.isEmpty())
-//		{
-//			TokenProcessStrategy task = new TokenProcessStrategy();
-//
-//			task.setPlaceName(query_list.remove(0));
-//
-//			pool.execute(task);
-//		}
-//
-//		if (fc != null)
-//			try
-//			{
-//				fc.close();
-//			} catch (IOException e)
-//			{
-//
-//				e.printStackTrace();
-//			}
-//		pool.shutdown();
+		// ================ initialize the query input begin ==================
+
+		File query_file = new File(args[0]);
+
+		ArrayList<PlaceName> query_list = new ArrayList<PlaceName>(1000);
+
+		try
+		{
+			Scanner query_scan = new Scanner(query_file);
+			long timeStamp_readQueryList = System.currentTimeMillis();
+
+			while (query_scan.hasNextLine())
+			{
+				query_list.add(new PlaceName(query_scan.nextLine()));
+			}
+			System.out.println("Query Structure Setup Time: "
+					+ (System.currentTimeMillis() - timeStamp_readQueryList));
+
+			log.warn("Query Structure Setup Time: "
+					+ (System.currentTimeMillis() - timeStamp_readQueryList));
+
+		} catch (FileNotFoundException e)
+		{
+			e.printStackTrace();
+		}
+
+		// ================ initialize the query input end ==================
+
+		File tweet_file = new File(args[1]);
+
+		// build the thread pool
+		ExecutorService pool = Executors.newFixedThreadPool(8);
+
+		// set the tweet input source
+		TokenProcessStrategy.setTweetInputFile(tweet_file);
+
+		// do the memory map
+		FileChannel fc = null;
+		MappedByteBuffer byteBuffer = null;
+		try
+		{
+			fc = new FileInputStream(tweet_file).getChannel();
+			byteBuffer = fc.map(FileChannel.MapMode.READ_ONLY, 0, fc.size());
+			TokenProcessStrategy.setMappedByteBuffer(byteBuffer);
+
+		} catch (FileNotFoundException e)
+		{
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+
+		// assign the task to the thread pool
+		while (!query_list.isEmpty())
+		{
+			TokenProcessStrategy task = new TokenProcessStrategy();
+
+			task.setPlaceName(query_list.remove(0));
+
+			pool.execute(task);
+		}
+
+		if (fc != null)
+			try
+			{
+				fc.close();
+			} catch (IOException e)
+			{
+
+				e.printStackTrace();
+			}
+		pool.shutdown();
 
 	}
 
